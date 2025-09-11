@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>5-Question Quiz Prototype</title>
+  <style>
+    body{font-family:system-ui,Segoe UI,Roboto,Arial;margin:24px;background:#f7f7f8}
+    .card{max-width:720px;margin:0 auto;background:#fff;padding:18px;border-radius:10px;box-shadow:0 6px 18px rgba(20,20,40,0.06)}
+    h1{font-size:20px;margin:0 0 12px}
+    .question{margin:14px 0;padding:12px;border-radius:8px;border:1px solid #eee}
+    .opts{margin-top:8px}
+    label{display:block;padding:8px;border-radius:6px;cursor:pointer}
+    input[type="radio"]{margin-right:8px}
+    .btn{display:inline-block;padding:10px 14px;border-radius:8px;border:none;background:#2563eb;color:white;cursor:pointer}
+    .result{margin-top:14px;padding:12px;border-radius:8px}
+    .correct{background:#e6ffed;border:1px solid #9ae6b4}
+    .wrong{background:#fff0f0;border:1px solid #f3a6a6}
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Quick 5-Question Quiz</h1>
+    <form id="quiz">
+      <div class="question" data-correct="b">
+        <strong>1. What is the capital of France?</strong>
+        <div class="opts">
+          <label><input type="radio" name="q1" value="a"> Berlin</label>
+          <label><input type="radio" name="q1" value="b"> Paris</label>
+          <label><input type="radio" name="q1" value="c"> Madrid</label>
+          <label><input type="radio" name="q1" value="d"> Rome</label>
+        </div>
+      </div>
+      <div class="question" data-correct="c">
+        <strong>2. Which planet is known as the Red Planet?</strong>
+        <div class="opts">
+          <label><input type="radio" name="q2" value="a"> Venus</label>
+          <label><input type="radio" name="q2" value="b"> Jupiter</label>
+          <label><input type="radio" name="q2" value="c"> Mars</label>
+          <label><input type="radio" name="q2" value="d"> Saturn</label>
+        </div>
+      </div>
+      <div class="question" data-correct="a">
+        <strong>3. What is 2 + 2?</strong>
+        <div class="opts">
+          <label><input type="radio" name="q3" value="a"> 4</label>
+          <label><input type="radio" name="q3" value="b"> 3</label>
+          <label><input type="radio" name="q3" value="c"> 5</label>
+          <label><input type="radio" name="q3" value="d"> 6</label>
+        </div>
+      </div>
+      <div class="question" data-correct="d">
+        <strong>4. Who wrote 'Hamlet'?</strong>
+        <div class="opts">
+          <label><input type="radio" name="q4" value="a"> Charles Dickens</label>
+          <label><input type="radio" name="q4" value="b"> Jane Austen</label>
+          <label><input type="radio" name="q4" value="c"> Mark Twain</label>
+          <label><input type="radio" name="q4" value="d"> William Shakespeare</label>
+        </div>
+      </div>
+      <div class="question" data-correct="b">
+        <strong>5. What is the boiling point of water?</strong>
+        <div class="opts">
+          <label><input type="radio" name="q5" value="a"> 90°C</label>
+          <label><input type="radio" name="q5" value="b"> 100°C</label>
+          <label><input type="radio" name="q5" value="c"> 80°C</label>
+          <label><input type="radio" name="q5" value="d"> 120°C</label>
+        </div>
+      </div>
+      <button type="submit" id="submit">Submit</button>
+      <div id="output" class="result" aria-live="polite"></div>
+    </form>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
