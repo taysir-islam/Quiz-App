@@ -73,6 +73,6 @@ if (!summaryEl || !listEl) {
 if (retryBtn) {
   retryBtn.addEventListener('click', function (e) {
     sessionStorage.removeItem('quizResults');
-    window.location.href = 'index.html'; // changed from 5questionquiz.html
+    window.location.href = 'quizez.html'; // changed from 5questionquiz.html
   });
 }
