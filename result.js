@@ -1,7 +1,24 @@
+const quizTitles = {
+  gk: "General Knowledge Quiz",
+  sci: "Science Quiz",
+  history: "History Quiz",
+  sports: "Sports Quiz"
+};
+
 const dataRaw = sessionStorage.getItem('quizResults');
 const summaryEl = document.getElementById('summary');
 const listEl = document.getElementById('list');
 const retryBtn = document.getElementById('retry');
+const titleEl = document.getElementById('quizTitle');
+
+let quizType = "gk";
+if (dataRaw) {
+  try {
+    const data = JSON.parse(dataRaw);
+    quizType = data.quizType || "gk";
+  } catch {}
+}
+if (titleEl) titleEl.textContent = quizTitles[quizType] + " Results";
 
 if (!summaryEl || !listEl) {
   // Defensive: required elements not found
@@ -73,6 +90,6 @@ if (!summaryEl || !listEl) {
 if (retryBtn) {
   retryBtn.addEventListener('click', function (e) {
     sessionStorage.removeItem('quizResults');
-    window.location.href = 'quizez.html'; // changed from 5questionquiz.html
+    window.location.href = 'quizez.html'; // Go back to quiz selection
   });
 }

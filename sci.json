@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": [
+      {"value": "a", "text": "O2"},
+      {"value": "b", "text": "CO2"},
+      {"value": "c", "text": "H2O"},
+      {"value": "d", "text": "NaCl"}
+    ],
+    "correct": "c"
+  },
+  {
+    "question": "What planet is closest to the sun?",
+    "options": [
+      {"value": "a", "text": "Venus"},
+      {"value": "b", "text": "Mercury"},
+      {"value": "c", "text": "Earth"},
+      {"value": "d", "text": "Mars"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "What gas do humans need to breathe?",
+    "options": [
+      {"value": "a", "text": "Oxygen"},
+      {"value": "b", "text": "Carbon Dioxide"},
+      {"value": "c", "text": "Nitrogen"},
+      {"value": "d", "text": "Hydrogen"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What force keeps us on the ground?",
+    "options": [
+      {"value": "a", "text": "Magnetism"},
+      {"value": "b", "text": "Friction"},
+      {"value": "c", "text": "Gravity"},
+      {"value": "d", "text": "Electricity"}
+    ],
+    "correct": "c"
+  },
+  {
+    "question": "What part of the plant conducts photosynthesis?",
+    "options": [
+      {"value": "a", "text": "Root"},
+      {"value": "b", "text": "Stem"},
+      {"value": "c", "text": "Leaf"},
+      {"value": "d", "text": "Flower"}
+    ],
+    "correct": "c"
+  }
+]

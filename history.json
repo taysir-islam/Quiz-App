@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      {"value": "a", "text": "Berlin"},
+      {"value": "b", "text": "Paris"},
+      {"value": "c", "text": "Madrid"},
+      {"value": "d", "text": "Rome"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      {"value": "a", "text": "Venus"},
+      {"value": "b", "text": "Jupiter"},
+      {"value": "c", "text": "Mars"},
+      {"value": "d", "text": "Saturn"}
+    ],
+    "correct": "c"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "options": [
+      {"value": "a", "text": "4"},
+      {"value": "b", "text": "3"},
+      {"value": "c", "text": "5"},
+      {"value": "d", "text": "6"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "options": [
+      {"value": "a", "text": "Charles Dickens"},
+      {"value": "b", "text": "Jane Austen"},
+      {"value": "c", "text": "Mark Twain"},
+      {"value": "d", "text": "William Shakespeare"}
+    ],
+    "correct": "d"
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "options": [
+      {"value": "a", "text": "90°C"},
+      {"value": "b", "text": "100°C"},
+      {"value": "c", "text": "80°C"},
+      {"value": "d", "text": "120°C"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": [
+      {"value": "a", "text": "Abraham Lincoln"},
+      {"value": "b", "text": "George Washington"},
+      {"value": "c", "text": "Thomas Jefferson"},
+      {"value": "d", "text": "John Adams"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "options": [
+      {"value": "a", "text": "1945"},
+      {"value": "b", "text": "1939"},
+      {"value": "c", "text": "1918"},
+      {"value": "d", "text": "1965"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Who discovered America?",
+    "options": [
+      {"value": "a", "text": "Christopher Columbus"},
+      {"value": "b", "text": "Vasco da Gama"},
+      {"value": "c", "text": "Ferdinand Magellan"},
+      {"value": "d", "text": "Marco Polo"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "The Great Wall of China was primarily built to protect against which group?",
+    "options": [
+      {"value": "a", "text": "Romans"},
+      {"value": "b", "text": "Mongols"},
+      {"value": "c", "text": "Vikings"},
+      {"value": "d", "text": "Persians"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "Who was known as the Maid of Orléans?",
+    "options": [
+      {"value": "a", "text": "Joan of Arc"},
+      {"value": "b", "text": "Marie Curie"},
+      {"value": "c", "text": "Queen Victoria"},
+      {"value": "d", "text": "Cleopatra"}
+    ],
+    "correct": "a"
+  }
+]

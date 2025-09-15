@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which is the largest ocean on Earth?",
+    "options": [
+      {"value": "a", "text": "Atlantic Ocean"},
+      {"value": "b", "text": "Indian Ocean"},
+      {"value": "c", "text": "Pacific Ocean"},
+      {"value": "d", "text": "Arctic Ocean"}
+    ],
+    "correct": "c"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      {"value": "a", "text": "Vincent van Gogh"},
+      {"value": "b", "text": "Leonardo da Vinci"},
+      {"value": "c", "text": "Pablo Picasso"},
+      {"value": "d", "text": "Claude Monet"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "options": [
+      {"value": "a", "text": "0"},
+      {"value": "b", "text": "1"},
+      {"value": "c", "text": "2"},
+      {"value": "d", "text": "3"}
+    ],
+    "correct": "c"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": [
+      {"value": "a", "text": "China"},
+      {"value": "b", "text": "Japan"},
+      {"value": "c", "text": "Thailand"},
+      {"value": "d", "text": "South Korea"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "options": [
+      {"value": "a", "text": "Oxygen"},
+      {"value": "b", "text": "Nitrogen"},
+      {"value": "c", "text": "Carbon Dioxide"},
+      {"value": "d", "text": "Hydrogen"}
+    ],
+    "correct": "c"
+  }
+]
