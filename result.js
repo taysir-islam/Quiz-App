@@ -50,31 +50,46 @@ if (!summaryEl || !listEl) {
       const opts = document.createElement('div');
       opts.className = 'opts';
 
-      item.options.forEach(opt => {
-        const el = document.createElement('div');
-        el.className = 'opt';
-        // mark classes
-        if (opt.value === item.correct) {
-          el.classList.add('correct');
-          el.textContent = opt.text + ' (Correct)';
-        } else {
-          el.textContent = opt.text;
-        }
-
-        // highlight user's choice
-        if (opt.value === item.selected) {
-          const mark = document.createElement('div');
-          mark.textContent = 'Your answer →';
-          mark.className = 'you';
-          el.appendChild(mark);
-          // if user's answer is wrong, add wrong styling
-          if (item.selected !== item.correct) {
-            el.classList.add('wrong');
+      if (item.options && item.options.length > 0) {
+        item.options.forEach(opt => {
+          const el = document.createElement('div');
+          el.className = 'opt';
+          // mark classes
+          if (opt.value === item.correct) {
+            el.classList.add('correct');
+            el.textContent = opt.text + ' (Correct)';
+          } else {
+            el.textContent = opt.text;
           }
-        }
 
-        opts.appendChild(el);
-      });
+          // highlight user's choice
+          if (opt.value === item.selected) {
+            const mark = document.createElement('div');
+            mark.textContent = 'Your answer →';
+            mark.className = 'you';
+            el.appendChild(mark);
+            // if user's answer is wrong, add wrong styling
+            if (item.selected !== item.correct) {
+              el.classList.add('wrong');
+            }
+          }
+
+          opts.appendChild(el);
+        });
+        // If no answer selected, show "Not answered"
+        if (!item.selected) {
+          const notAnswered = document.createElement('div');
+          notAnswered.className = 'opt wrong';
+          notAnswered.textContent = 'Not answered';
+          opts.appendChild(notAnswered);
+        }
+      } else {
+        // No options at all
+        const noOptions = document.createElement('div');
+        noOptions.className = 'opt wrong';
+        noOptions.textContent = 'No options provided for this question.';
+        opts.appendChild(noOptions);
+      }
 
       qWrap.appendChild(opts);
       listEl.appendChild(qWrap);

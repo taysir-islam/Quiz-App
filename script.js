@@ -67,25 +67,8 @@ async function loadQuiz() {
     e.preventDefault();
     const questionsEls = Array.from(document.querySelectorAll('.question'));
     let score = 0;
-    let answeredAll = true;
 
-    // Check if all questions are answered
-    questionsEls.forEach((q, idx) => {
-      const name = 'q' + (idx + 1);
-      const checked = newForm.querySelector(`input[name="${name}"]:checked`);
-      if (!checked) answeredAll = false;
-    });
-
-    const out = document.getElementById('output');
-    if (!answeredAll) {
-      out.textContent = 'Please answer all questions before submitting.';
-      out.style.background = '#fff7cc';
-      out.style.border = '1px solid #f0d36b';
-      out.style.padding = '12px';
-      return;
-    }
-
-    // Calculate score and collect answers
+    // Calculate score and collect answers (allow blanks)
     const answers = questionsEls.map((q, idx) => {
       const correct = q.getAttribute('data-correct');
       const name = 'q' + (idx + 1);
