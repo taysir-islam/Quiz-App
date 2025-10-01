@@ -3,21 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <title>Quiz Selection</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
     <div class="quiz-container">
-        <h2>Select a Quiz</h2>
-        <button class="quiz-option" onclick="startQuiz('gk')">General Knowledge</button>
-        <button class="quiz-option" onclick="startQuiz('sci')">Science</button>
-        <button class="quiz-option" onclick="startQuiz('history')">History</button>
-        <button class="quiz-option" onclick="startQuiz('sports')">Sports</button>
+        <h2 id="quizTitle"></h2>
+        <form id="quiz"></form>
     </div>
-    <script>
-        function startQuiz(quizName) {
-            localStorage.setItem('quizType', quizName);
-            window.location.href = 'index.html';
-        }
-    </script>
+    <script src="../js/script.js"></script>
 </body>
 </html>

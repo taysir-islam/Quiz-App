@@ -1,13 +1,13 @@
 [
   {
-    "question": "Which is the largest ocean on Earth?",
+    "question": "Which is the smallest ocean on Earth?",
     "options": [
       {"value": "a", "text": "Atlantic Ocean"},
       {"value": "b", "text": "Indian Ocean"},
       {"value": "c", "text": "Pacific Ocean"},
       {"value": "d", "text": "Arctic Ocean"}
     ],
-    "correct": "c"
+    "correct": "b"
   },
   {
     "question": "Who painted the Mona Lisa?",

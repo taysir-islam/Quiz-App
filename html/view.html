@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Viewer</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <div id="dropzone" class="dropzone">
+        <p>Drag & drop your quiz JSON here or <label for="fileInput" class="file-label">attach</label> it.
+            <input type="file" id="fileInput" accept="application/json" style="display:none">
+        </p>
+        <p class="dropzone-hint">You will be redirected to the quiz page after upload.</p>
+    </div>
+    <script>
+    function handleFile(file) {
+        const reader = new FileReader();
+        reader.onload = function(e) {
+            try {
+                const questions = JSON.parse(e.target.result);
+                sessionStorage.setItem('customQuiz', JSON.stringify(questions));
+                window.location.href = 'quizez.html';
+            } catch (err) {
+                alert('Invalid JSON file.');
+            }
+        };
+        reader.readAsText(file);
+    }
+    document.addEventListener('DOMContentLoaded', function() {
+        const dropzone = document.getElementById('dropzone');
+        const fileInput = document.getElementById('fileInput');
+        if (dropzone) {
+            dropzone.addEventListener('dragover', e => {
+                e.preventDefault();
+                dropzone.classList.add('dragover');
+            });
+            dropzone.addEventListener('dragleave', e => {
+                dropzone.classList.remove('dragover');
+            });
+            dropzone.addEventListener('drop', e => {
+                e.preventDefault();
+                dropzone.classList.remove('dragover');
+                const file = e.dataTransfer.files[0];
+                if (file && file.type === 'application/json') {
+                    handleFile(file);
+                } else {
+                    alert('Please drop a valid .json file.');
+                }
+            });
+            fileInput.addEventListener('change', e => {
+                const file = e.target.files[0];
+                if (file && file.type === 'application/json') {
+                    handleFile(file);
+                } else {
+                    alert('Please select a valid .json file.');
+                }
+            });
+        }
+    });
+    </script>
+</body>
+</html>

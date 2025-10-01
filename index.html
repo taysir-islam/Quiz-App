@@ -4,31 +4,31 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Quiz Card Grid</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <nav class="navbar">
     <div class="navbar-logo">LOGO</div>
-    <button class="navbar-btn" onclick="window.location.href='create_quiz.html'">Create Quiz</button>
-    <button class="-btn" onclick="window.location.href='create_quiz.html'">Create Quiz</button>
+    <button class="navbar-btn" onclick="window.location.href='html/create_quiz.html'">Create Quiz</button>
+    <button class="view-btn" onclick="window.location.href='html/view.html'">Veiw Your Own Quizzes</button>
   </nav>
   <div class="grid-container">
-    <!-- 12 cards -->
-    <div class="card">
-      <div class="card-img">img goes here</div>
-      <div class="card-name">name goes here</div>
+    <!-- 4 quiz cards for the JSON quizzes -->
+    <div class="card" onclick="localStorage.setItem('quizType','gk');window.location.href='html/quizez.html'">
+      <div class="card-img">🧠</div>
+      <div class="card-name">General Knowledge</div>
     </div>
-    <div class="card">
-      <div class="card-img">img goes here</div>
-      <div class="card-name">name goes here</div>
+    <div class="card" onclick="localStorage.setItem('quizType','sci');window.location.href='html/quizez.html'">
+      <div class="card-img">🔬</div>
+      <div class="card-name">Science</div>
     </div>
-    <div class="card">
-      <div class="card-img">img goes here</div>
-      <div class="card-name">name goes here</div>
+    <div class="card" onclick="localStorage.setItem('quizType','history');window.location.href='html/quizez.html'">
+      <div class="card-img">🏺</div>
+      <div class="card-name">History</div>
     </div>
-    <div class="card">
-      <div class="card-img">img goes here</div>
-      <div class="card-name">name goes here</div>
+    <div class="card" onclick="localStorage.setItem('quizType','sports');window.location.href='html/quizez.html'">
+      <div class="card-img">🏆</div>
+      <div class="card-name">Sports</div>
     </div>
     <div class="card">
       <div class="card-img">img goes here</div>
@@ -63,5 +63,6 @@
       <div class="card-name">name goes here</div>
     </div>
   </div>
+  <script src="js/script.js"></script>
 </body>
 </html>

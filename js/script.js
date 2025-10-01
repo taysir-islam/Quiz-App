@@ -7,12 +7,12 @@ const quizTitles = {
 
 async function loadQuiz() {
   const quizType = localStorage.getItem('quizType') || 'gk';
-  const quizFile = {
-    gk: 'gk.json',
-    sci: 'sci.json',
-    history: 'history.json',
-    sports: 'sports.json'
-  }[quizType] || 'gk.json';
+	const quizFile = {
+    gk: '../quiz_question/gk.json',
+    sci: '../quiz_question/sci.json',
+    history: '../quiz_question/history.json',
+    sports: '../quiz_question/sports.json'
+  }[quizType] || '../quiz_question/gk.json';
 
   // Set quiz title
   const titleEl = document.getElementById('quizTitle');
