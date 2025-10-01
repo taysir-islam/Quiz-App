@@ -6,6 +6,22 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <div style="display:flex; align-items:flex-start; gap:32px;">
+        <div class="quiz-creator-container" style="flex:1; min-width:340px;">
+            <h1>Create/Edit Quiz</h1>
+            <label for="fileNameInput">Quiz File Name: </label>
+            <input type="text" id="fileNameInput" placeholder="quiz.json" style="width:180px; margin-bottom:10px">
+            <form id="quizForm">
+                <div id="questionsContainer"></div>
+                <button type="button" id="addQuestionBtn" class="btn">Add Question</button>
+            </form>
+            <button id="downloadBtn" class="btn" style="margin-top:20px">Save JSON</button>
+        </div>
+        <div id="previewPanel" style="flex:1; min-width:340px; background:#f9f9fa; border-radius:10px; box-shadow:0 2px 8px #0001; padding:24px; margin-top:24px;">
+            <h2 style="margin-top:0;">Live Preview</h2>
+            <div id="quizPreview"></div>
+        </div>
+    </div>
+    <script src="../js/create_quiz.js"></script>
 </body>
 </html>

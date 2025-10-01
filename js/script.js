@@ -34,7 +34,14 @@ async function loadQuiz() {
   const titleEl = document.getElementById('quizTitle');
   if (titleEl) {
     if (isCustom) {
-      titleEl.textContent = 'Custom Quiz';
+      // Use custom quiz name from sessionStorage if available
+      const customQuizName = sessionStorage.getItem('customQuizName');
+      if (customQuizName) {
+        titleEl.textContent = customQuizName;
+        sessionStorage.removeItem('customQuizName');
+      } else {
+        titleEl.textContent = 'Custom Quiz';
+      }
     } else {
       titleEl.textContent = quizTitles[quizType] || "Quiz";
     }

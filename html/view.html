@@ -19,6 +19,9 @@
             try {
                 const questions = JSON.parse(e.target.result);
                 sessionStorage.setItem('customQuiz', JSON.stringify(questions));
+                // Set quiz name from file name (before .json)
+                let quizName = file.name.replace(/\.json$/i, '');
+                sessionStorage.setItem('customQuizName', quizName);
                 window.location.href = 'quizez.html';
             } catch (err) {
                 alert('Invalid JSON file.');
