@@ -6,22 +6,45 @@ const quizTitles = {
 };
 
 async function loadQuiz() {
-  const quizType = localStorage.getItem('quizType') || 'gk';
-	const quizFile = {
-    gk: '../quiz_question/gk.json',
-    sci: '../quiz_question/sci.json',
-    history: '../quiz_question/history.json',
-    sports: '../quiz_question/sports.json'
-  }[quizType] || '../quiz_question/gk.json';
+  // Check for custom quiz in sessionStorage
+  let questions = null;
+  let quizType = localStorage.getItem('quizType') || 'gk';
+  let isCustom = false;
+  if (sessionStorage.getItem('customQuiz')) {
+    try {
+      questions = JSON.parse(sessionStorage.getItem('customQuiz'));
+      isCustom = true;
+    } catch (e) {
+      // fallback to default
+      questions = null;
+    }
+  }
+  if (!questions) {
+    const quizFile = {
+      gk: '../quiz_question/gk.json',
+      sci: '../quiz_question/sci.json',
+      history: '../quiz_question/history.json',
+      sports: '../quiz_question/sports.json'
+    }[quizType] || '../quiz_question/gk.json';
+    const res = await fetch(quizFile);
+    questions = await res.json();
+  }
 
   // Set quiz title
   const titleEl = document.getElementById('quizTitle');
-  if (titleEl) titleEl.textContent = quizTitles[quizType] || "Quiz";
+  if (titleEl) {
+    if (isCustom) {
+      titleEl.textContent = 'Custom Quiz';
+    } else {
+      titleEl.textContent = quizTitles[quizType] || "Quiz";
+    }
+  }
 
-  const res = await fetch(quizFile);
-  const questions = await res.json();
+  // Clear customQuiz after loading so it doesn't persist
+  if (isCustom) sessionStorage.removeItem('customQuiz');
+
   let form = document.getElementById('quiz');
-  form.innerHTML = ''; // Clear form
+  form.innerHTML = '';
 
   questions.forEach((q, idx) => {
     const qDiv = document.createElement('div');
@@ -91,7 +114,7 @@ async function loadQuiz() {
       score,
       total: questionsEls.length,
       answers,
-      quizType
+      quizType: isCustom ? 'custom' : quizType
     }));
 
     // Disable inputs and submit button

@@ -4,6 +4,8 @@ body {
   background: #f7f7f8;
   min-height: 100vh;
   overflow-y: auto;
+
+
 }
 
 /* Grid for cards */
@@ -135,4 +137,14 @@ input[type="radio"] {
     text-decoration: none;
     margin-top: 500px;
     
+}
+#dropzone {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.file-label {
+  color: #2563eb;
+  text-decoration: underline;
+  cursor: pointer;
 }
