@@ -13,7 +13,7 @@ Build quizzes, export them, view them dynamically, or dive straight into existin
 
 ## 🖼️ Preview
 
-> _Here’s a glimpse of Xylem Quizzes in action (replace these with your own screenshots later):_
+> _Here’s a glimpse of Xylem Quizzes in action :_
 
 ### 🏗️ Quiz Creation Studio  
 ![Quiz Creation Screenshot](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=60)
