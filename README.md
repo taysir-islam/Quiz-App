@@ -16,13 +16,13 @@ Build quizzes, export them, view them dynamically, or dive straight into existin
 > _Here’s a glimpse of Xylem Quizzes in action :_
 
 ### 🏗️ Quiz Creation Studio  
-![Quiz Creation Screenshot](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=60)
+![Quiz Creation Screenshot](Screenshots/Screenshot%202025-10-06%20221414.png)
 
 ### 🔍 Quiz Viewer  
-![Quiz Viewer Screenshot](https://images.unsplash.com/photo-1550439062-609e1531270e?auto=format&fit=crop&w=1200&q=60)
+![Quiz Viewer Screenshot](Screenshots/Screenshot%202025-10-06%20221347.png)
 
 ### 🧩 Pre-Built Quizzes  
-![Playing Quiz Screenshot](https://images.unsplash.com/photo-1587613865766-4f1d0b38c6a2?auto=format&fit=crop&w=1200&q=60)
+![Playing Quiz Screenshot](Screenshots/Screenshot%202025-10-06%20221426.png)
 
 ---
 
