@@ -19,10 +19,10 @@ Build quizzes, export them, view them dynamically, or dive straight into existin
 ![Quiz Creation Screenshot](Screenshots/Screenshot%202025-10-06%20221414.png)
 
 ### 🔍 Quiz Viewer  
-![Quiz Viewer Screenshot](Screenshots/Screenshot%202025-10-06%20221347.png)
+![Quiz Viewer Screenshot](Screenshots/Screenshot%202025-10-06%20221426.png)
 
 ### 🧩 Pre-Built Quizzes  
-![Playing Quiz Screenshot](Screenshots/Screenshot%202025-10-06%20221426.png)
+![Playing Quiz Screenshot](Screenshots/Screenshot%202025-10-06%20221347.png)
 
 ---
 
