@@ -1,0 +1,482 @@
+[
+  {
+    "question": "In VR design, which factor most directly reduces motion sickness?",
+    "options": [
+      {"value": "a", "text": "Low brightness"},
+      {"value": "b", "text": "High frame rate and stable latency"},
+      {"value": "c", "text": "Increased headset weight"},
+      {"value": "d", "text": "Larger field of view only"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "An AR system failing to align digital objects correctly suffers from what issue?",
+    "options": [
+      {"value": "a", "text": "Latency drift"},
+      {"value": "b", "text": "Registration error"},
+      {"value": "c", "text": "Overclocking"},
+      {"value": "d", "text": "Thermal lag"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "When e-commerce websites recommend products using customer history, it mainly applies:",
+    "options": [
+      {"value": "a", "text": "Data compression"},
+      {"value": "b", "text": "Machine learning algorithms"},
+      {"value": "c", "text": "Blockchain storage"},
+      {"value": "d", "text": "Packet switching"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "A major environmental drawback of cloud data centres is:",
+    "options": [
+      {"value": "a", "text": "Slow data transfer"},
+      {"value": "b", "text": "High electricity and cooling demand"},
+      {"value": "c", "text": "Limited storage size"},
+      {"value": "d", "text": "Weak encryption"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "In IoT, devices that process data near the source instead of the cloud use:",
+    "options": [
+      {"value": "a", "text": "Edge computing"},
+      {"value": "b", "text": "Virtualization"},
+      {"value": "c", "text": "Server mirroring"},
+      {"value": "d", "text": "Data tunneling"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Why is carbon-neutral cloud computing difficult to achieve?",
+    "options": [
+      {"value": "a", "text": "Users require constant backups"},
+      {"value": "b", "text": "Energy sources are often non-renewable"},
+      {"value": "c", "text": "Encryption uses too many CPUs"},
+      {"value": "d", "text": "5G networks are incompatible"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "In robotics, sensors providing distance data typically use:",
+    "options": [
+      {"value": "a", "text": "Infrared or ultrasonic signals"},
+      {"value": "b", "text": "Random binary pulses"},
+      {"value": "c", "text": "Thermal transistors"},
+      {"value": "d", "text": "Magnetic coils only"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which aspect best separates automation from true artificial intelligence?",
+    "options": [
+      {"value": "a", "text": "Automation cannot adapt without reprogramming"},
+      {"value": "b", "text": "Automation always uses neural networks"},
+      {"value": "c", "text": "AI never needs data"},
+      {"value": "d", "text": "Automation must work offline"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is the core reason many IoT devices use IPv6?",
+    "options": [
+      {"value": "a", "text": "Smaller packets"},
+      {"value": "b", "text": "Huge address space for billions of devices"},
+      {"value": "c", "text": "Built-in antivirus"},
+      {"value": "d", "text": "Simpler routing tables"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "A machine-learning model that performs well on training data but poorly on new data suffers from:",
+    "options": [
+      {"value": "a", "text": "Underfitting"},
+      {"value": "b", "text": "Overfitting"},
+      {"value": "c", "text": "Overtraining"},
+      {"value": "d", "text": "Bias shift"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "Which combination forms the basic structure of a neural network?",
+    "options": [
+      {"value": "a", "text": "Nodes, weights, and activation functions"},
+      {"value": "b", "text": "Loops, timers, and arrays"},
+      {"value": "c", "text": "Tables, keys, and joins"},
+      {"value": "d", "text": "Sensors, relays, and gears"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "In databases, normalization mainly helps by:",
+    "options": [
+      {"value": "a", "text": "Reducing data redundancy"},
+      {"value": "b", "text": "Increasing storage duplication"},
+      {"value": "c", "text": "Encrypting tables"},
+      {"value": "d", "text": "Creating binary backups"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Why do most AR apps require camera permission?",
+    "options": [
+      {"value": "a", "text": "To capture and overlay virtual content on the real world"},
+      {"value": "b", "text": "For biometric login"},
+      {"value": "c", "text": "To record user behavior secretly"},
+      {"value": "d", "text": "To adjust brightness only"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "When an online shop auto-calculates delivery routes by distance, it mostly uses:",
+    "options": [
+      {"value": "a", "text": "Geolocation algorithms"},
+      {"value": "b", "text": "Database joins"},
+      {"value": "c", "text": "Binary encoding"},
+      {"value": "d", "text": "Deepfake models"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "In robotics competitions, using PID control improves:",
+    "options": [
+      {"value": "a", "text": "Stability and precision of movement"},
+      {"value": "b", "text": "Battery charging"},
+      {"value": "c", "text": "Speech output"},
+      {"value": "d", "text": "Graphics rendering"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Green digital transformation in Bangladesh would most benefit from:",
+    "options": [
+      {"value": "a", "text": "Solar-powered data centres"},
+      {"value": "b", "text": "More printed forms"},
+      {"value": "c", "text": "Offline paper archives"},
+      {"value": "d", "text": "Frequent server shutdowns"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which protocol is commonly used by IoT sensors to transmit lightweight data?",
+    "options": [
+      {"value": "a", "text": "MQTT"},
+      {"value": "b", "text": "FTP"},
+      {"value": "c", "text": "POP3"},
+      {"value": "d", "text": "DNS"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "In an e-commerce database, each order linked to a customer table uses:",
+    "options": [
+      {"value": "a", "text": "A foreign key reference"},
+      {"value": "b", "text": "A random pointer"},
+      {"value": "c", "text": "A null constraint"},
+      {"value": "d", "text": "A dynamic cursor"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "In a cloud service model, SaaS mainly delivers:",
+    "options": [
+      {"value": "a", "text": "Ready-to-use software over the internet"},
+      {"value": "b", "text": "Hardware virtualization only"},
+      {"value": "c", "text": "Bare metal servers"},
+      {"value": "d", "text": "Custom IoT devices"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Why are edge-AI cameras becoming popular for traffic control?",
+    "options": [
+      {"value": "a", "text": "They process video locally, reducing bandwidth and delay"},
+      {"value": "b", "text": "They replace cloud servers entirely"},
+      {"value": "c", "text": "They record only night data"},
+      {"value": "d", "text": "They remove storage costs completely"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What type of learning uses labelled examples to train an AI system?",
+    "options": [
+      {"value": "a", "text": "Supervised learning"},
+      {"value": "b", "text": "Unsupervised learning"},
+      {"value": "c", "text": "Reinforced memory"},
+      {"value": "d", "text": "Transfer automation"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "In AR navigation, data from GPS and gyroscope together provide:",
+    "options": [
+      {"value": "a", "text": "Accurate orientation and position mapping"},
+      {"value": "b", "text": "Sound calibration"},
+      {"value": "c", "text": "Color correction"},
+      {"value": "d", "text": "File encryption"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which problem would occur if database indexes are too many?",
+    "options": [
+      {"value": "a", "text": "Slower data insertion and higher storage use"},
+      {"value": "b", "text": "Faster updates"},
+      {"value": "c", "text": "More accurate AI"},
+      {"value": "d", "text": "Less redundancy"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "In robotics, LiDAR sensors are used primarily to:",
+    "options": [
+      {"value": "a", "text": "Measure distance with laser reflection"},
+      {"value": "b", "text": "Detect magnetic fields"},
+      {"value": "c", "text": "Store data"},
+      {"value": "d", "text": "Control wheel torque"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What happens if an e-commerce site lacks HTTPS encryption?",
+    "options": [
+      {"value": "a", "text": "Customer data can be intercepted during transactions"},
+      {"value": "b", "text": "Faster image loading"},
+      {"value": "c", "text": "No effect on security"},
+      {"value": "d", "text": "Lower storage costs"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "An AR medical training simulator mainly helps because:",
+    "options": [
+      {"value": "a", "text": "Students can practise procedures safely before real operations"},
+      {"value": "b", "text": "It replaces all textbooks"},
+      {"value": "c", "text": "It lowers hospital internet bills"},
+      {"value": "d", "text": "It records patient secrets"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Cloud elasticity refers to:",
+    "options": [
+      {"value": "a", "text": "Automatic scaling of resources up or down based on demand"},
+      {"value": "b", "text": "Data duplication across regions"},
+      {"value": "c", "text": "Manual resizing by admin"},
+      {"value": "d", "text": "Flexible user passwords"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which method ensures greener ICT hardware production?",
+    "options": [
+      {"value": "a", "text": "Using recyclable materials and efficient supply chains"},
+      {"value": "b", "text": "Running at higher voltages"},
+      {"value": "c", "text": "Ignoring lifecycle analysis"},
+      {"value": "d", "text": "Frequent model replacements"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "An IoT-based smart farm system benefits mainly by:",
+    "options": [
+      {"value": "a", "text": "Monitoring soil moisture and automating irrigation"},
+      {"value": "b", "text": "Eliminating sensors"},
+      {"value": "c", "text": "Encrypting seeds"},
+      {"value": "d", "text": "Producing new fertilizers"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which cloud feature most supports disaster recovery?",
+    "options": [
+      {"value": "a", "text": "Geographically distributed backups"},
+      {"value": "b", "text": "Limited log files"},
+      {"value": "c", "text": "Low latency only"},
+      {"value": "d", "text": "Reduced encryption"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A smart traffic system using IoT adjusts lights based on:",
+    "options": [
+      {"value": "a", "text": "Real-time vehicle data from road sensors"},
+      {"value": "b", "text": "Predefined clock schedule only"},
+      {"value": "c", "text": "Manual police input"},
+      {"value": "d", "text": "Weather reports only"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Why is metadata important in cloud storage?",
+    "options": [
+      {"value": "a", "text": "It describes and organizes stored files for fast access"},
+      {"value": "b", "text": "It compresses video"},
+      {"value": "c", "text": "It encrypts passwords"},
+      {"value": "d", "text": "It deletes duplicates automatically"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "When an ML model updates weights after each error, the process is called:",
+    "options": [
+      {"value": "a", "text": "Backpropagation"},
+      {"value": "b", "text": "Feature scaling"},
+      {"value": "c", "text": "Normalization"},
+      {"value": "d", "text": "Data labeling"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "In robotics, what ensures a manipulator arm stops when an obstacle is detected?",
+    "options": [
+      {"value": "a", "text": "Proximity sensors with interrupt signals"},
+      {"value": "b", "text": "Mechanical lubrication"},
+      {"value": "c", "text": "SQL queries"},
+      {"value": "d", "text": "Data normalization"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A web app storing quiz results in the browser’s cloud database uses:",
+    "options": [
+      {"value": "a", "text": "Firebase or similar BaaS"},
+      {"value": "b", "text": "DNS cache"},
+      {"value": "c", "text": "SMTP"},
+      {"value": "d", "text": "Bluetooth"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "In a green IT policy, which action is least sustainable?",
+    "options": [
+      {"value": "a", "text": "Running unused servers overnight"},
+      {"value": "b", "text": "Using solar panels"},
+      {"value": "c", "text": "Double-sided printing"},
+      {"value": "d", "text": "Virtual meetings"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "An IoT home system detecting a gas leak and sending SMS alert demonstrates:",
+    "options": [
+      {"value": "a", "text": "Event-driven automation"},
+      {"value": "b", "text": "Manual override"},
+      {"value": "c", "text": "Server redundancy"},
+      {"value": "d", "text": "Edge virtualization"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which component converts robotic control signals into physical motion?",
+    "options": [
+      {"value": "a", "text": "Actuator"},
+      {"value": "b", "text": "Sensor"},
+      {"value": "c", "text": "Microphone"},
+      {"value": "d", "text": "Controller board"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What ensures secure login in online exam systems?",
+    "options": [
+      {"value": "a", "text": "One-time passwords or biometric checks"},
+      {"value": "b", "text": "Plain-text password storage"},
+      {"value": "c", "text": "Disabling HTTPS"},
+      {"value": "d", "text": "Shared credentials"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which cloud deployment model is best for a Bangladeshi government portal?",
+    "options": [
+      {"value": "a", "text": "Private cloud for higher security"},
+      {"value": "b", "text": "Public cloud for open access"},
+      {"value": "c", "text": "Hybrid without encryption"},
+      {"value": "d", "text": "Offline local servers only"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Why is anonymization critical before publishing open data?",
+    "options": [
+      {"value": "a", "text": "To protect personal and sensitive information"},
+      {"value": "b", "text": "To compress datasets"},
+      {"value": "c", "text": "To speed up algorithms"},
+      {"value": "d", "text": "To save bandwidth"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "In AR-based education apps, 3D object tracking accuracy depends most on:",
+    "options": [
+      {"value": "a", "text": "Camera calibration and lighting"},
+      {"value": "b", "text": "Battery percentage"},
+      {"value": "c", "text": "Audio level"},
+      {"value": "d", "text": "Text size"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A robotic arm repeating one motion perfectly without feedback is performing:",
+    "options": [
+      {"value": "a", "text": "Open-loop control"},
+      {"value": "b", "text": "Closed-loop learning"},
+      {"value": "c", "text": "Sensor fusion"},
+      {"value": "d", "text": "Predictive modeling"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "In a database, an index is most similar to:",
+    "options": [
+      {"value": "a", "text": "A table of contents speeding up searches"},
+      {"value": "b", "text": "A backup copy"},
+      {"value": "c", "text": "A CSV file"},
+      {"value": "d", "text": "A join table"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What advantage does a smart grid provide in energy management?",
+    "options": [
+      {"value": "a", "text": "Real-time monitoring and automatic power balancing"},
+      {"value": "b", "text": "Manual meter reading"},
+      {"value": "c", "text": "Offline billing"},
+      {"value": "d", "text": "Paper-based reports"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which AI approach allows learning from environmental feedback?",
+    "options": [
+      {"value": "a", "text": "Reinforcement learning"},
+      {"value": "b", "text": "Static modeling"},
+      {"value": "c", "text": "Batch scripting"},
+      {"value": "d", "text": "Binary encoding"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A cloud backup automatically syncing deleted files to all devices shows a risk of:",
+    "options": [
+      {"value": "a", "text": "Data propagation without recovery"},
+      {"value": "b", "text": "Improved redundancy"},
+      {"value": "c", "text": "Manual upload"},
+      {"value": "d", "text": "Offline caching"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "The main benefit of using virtual machines in cloud computing is:",
+    "options": [
+      {"value": "a", "text": "Isolated, scalable environments for multiple users"},
+      {"value": "b", "text": "Faster Wi-Fi"},
+      {"value": "c", "text": "Permanent physical access"},
+      {"value": "d", "text": "Free hardware upgrades"}
+    ],
+    "correct": "a"
+  }
+]

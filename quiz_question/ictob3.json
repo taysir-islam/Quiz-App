@@ -1,0 +1,282 @@
+[
+  {
+    "question": "A delivery robot slows down when near people, then speeds up again. Which AI principle does this show?",
+    "options": [
+      {"value": "a", "text": "Context awareness"},
+      {"value": "b", "text": "Binary automation"},
+      {"value": "c", "text": "Open-loop control"},
+      {"value": "d", "text": "Static programming"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "An online quiz app saves user progress locally when internet disconnects. Which design idea is applied?",
+    "options": [
+      {"value": "a", "text": "Offline-first architecture"},
+      {"value": "b", "text": "Server mirroring"},
+      {"value": "c", "text": "Virtualized routing"},
+      {"value": "d", "text": "Bandwidth locking"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A VR safety training program lets users make mistakes without danger. What is its core advantage?",
+    "options": [
+      {"value": "a", "text": "Risk-free learning simulation"},
+      {"value": "b", "text": "Faster data transfer"},
+      {"value": "c", "text": "Low memory usage"},
+      {"value": "d", "text": "Offline operation"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "An IoT fridge orders groceries automatically when items run low. Which process triggers this?",
+    "options": [
+      {"value": "a", "text": "Event-based automation"},
+      {"value": "b", "text": "Manual scheduling"},
+      {"value": "c", "text": "Randomized control"},
+      {"value": "d", "text": "Time-stamped queuing"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "During heavy cloud traffic, a system auto-shifts to another server. This feature is known as:",
+    "options": [
+      {"value": "a", "text": "Load balancing"},
+      {"value": "b", "text": "Data mining"},
+      {"value": "c", "text": "Data warehousing"},
+      {"value": "d", "text": "Offline caching"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A chatbot suddenly begins giving biased answers. What likely caused this?",
+    "options": [
+      {"value": "a", "text": "Training data bias"},
+      {"value": "b", "text": "Hardware overheating"},
+      {"value": "c", "text": "Low RAM speed"},
+      {"value": "d", "text": "Internet lag"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A smart irrigation system waters only dry areas. What data type does it depend on?",
+    "options": [
+      {"value": "a", "text": "Soil moisture sensor readings"},
+      {"value": "b", "text": "Wi-Fi signal strength"},
+      {"value": "c", "text": "Manual timer"},
+      {"value": "d", "text": "Sound levels"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "If a robot identifies obstacles but doesn’t react to them, which part is failing?",
+    "options": [
+      {"value": "a", "text": "Actuator control"},
+      {"value": "b", "text": "Power module"},
+      {"value": "c", "text": "Sensor input"},
+      {"value": "d", "text": "Networking unit"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A Bangladesh startup stores its files in Google Cloud but processes payments locally. This setup is:",
+    "options": [
+      {"value": "a", "text": "Hybrid cloud"},
+      {"value": "b", "text": "Private cloud"},
+      {"value": "c", "text": "Public cloud"},
+      {"value": "d", "text": "Virtual private server"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "When a delivery drone detects rain and delays takeoff, which IoT concept is used?",
+    "options": [
+      {"value": "a", "text": "Sensor-based decision making"},
+      {"value": "b", "text": "Cloud redundancy"},
+      {"value": "c", "text": "Edge filtering"},
+      {"value": "d", "text": "Neural compression"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A data analyst uses AI to predict crop yield from weather data. This is an example of:",
+    "options": [
+      {"value": "a", "text": "Predictive analytics"},
+      {"value": "b", "text": "Reactive AI"},
+      {"value": "c", "text": "Rule-based automation"},
+      {"value": "d", "text": "Binary forecasting"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "When users are given virtual tours of historical sites, which technology is most used?",
+    "options": [
+      {"value": "a", "text": "VR simulation"},
+      {"value": "b", "text": "Blockchain ledger"},
+      {"value": "c", "text": "Cloud mining"},
+      {"value": "d", "text": "Quantum storage"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A company automates email replies during holidays. This is an example of:",
+    "options": [
+      {"value": "a", "text": "Rule-based automation"},
+      {"value": "b", "text": "Machine learning"},
+      {"value": "c", "text": "Deep learning"},
+      {"value": "d", "text": "Edge training"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "An IoT air-quality sensor sends false readings when battery is low. This error is due to:",
+    "options": [
+      {"value": "a", "text": "Hardware calibration fault"},
+      {"value": "b", "text": "Wrong data type"},
+      {"value": "c", "text": "Cloud sync error"},
+      {"value": "d", "text": "Excess data redundancy"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Students using VR labs remotely benefit mainly from:",
+    "options": [
+      {"value": "a", "text": "Immersive practical learning without physical risk"},
+      {"value": "b", "text": "Higher battery life"},
+      {"value": "c", "text": "Offline interaction"},
+      {"value": "d", "text": "Lower frame rate"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A facial-recognition system rejects correct faces in low light. The main issue is:",
+    "options": [
+      {"value": "a", "text": "Poor dataset diversity"},
+      {"value": "b", "text": "Slow network"},
+      {"value": "c", "text": "Low storage"},
+      {"value": "d", "text": "Compression error"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A cloud service bills users only for hours used. This payment model is called:",
+    "options": [
+      {"value": "a", "text": "Pay-as-you-go"},
+      {"value": "b", "text": "Prepaid data"},
+      {"value": "c", "text": "Bulk purchase"},
+      {"value": "d", "text": "Lifetime license"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A chatbot learns new slang from user conversations. It demonstrates:",
+    "options": [
+      {"value": "a", "text": "Continuous learning"},
+      {"value": "b", "text": "Rule following"},
+      {"value": "c", "text": "Data encryption"},
+      {"value": "d", "text": "Manual tuning"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A smart factory line pauses when a sensor reports overheating. What safety concept is applied?",
+    "options": [
+      {"value": "a", "text": "Automatic fail-safe system"},
+      {"value": "b", "text": "Energy harvesting"},
+      {"value": "c", "text": "Manual override"},
+      {"value": "d", "text": "Load shedding"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "An online retailer uses cloud-based AI for 24/7 chat support. Its main benefit is:",
+    "options": [
+      {"value": "a", "text": "Scalability and constant availability"},
+      {"value": "b", "text": "Offline sales"},
+      {"value": "c", "text": "Lower graphics usage"},
+      {"value": "d", "text": "Manual storage"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A robotic arm calculates motion paths before execution. This process is called:",
+    "options": [
+      {"value": "a", "text": "Path planning"},
+      {"value": "b", "text": "Signal damping"},
+      {"value": "c", "text": "Load prediction"},
+      {"value": "d", "text": "Binary sequencing"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "When a smart classroom adjusts lighting based on student presence, it’s using:",
+    "options": [
+      {"value": "a", "text": "Context-aware automation"},
+      {"value": "b", "text": "Manual mode"},
+      {"value": "c", "text": "Data encryption"},
+      {"value": "d", "text": "Predictive compression"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A drone collects aerial photos and uploads them directly to cloud AI for analysis. What is combined?",
+    "options": [
+      {"value": "a", "text": "IoT and cloud computing"},
+      {"value": "b", "text": "E-commerce and robotics"},
+      {"value": "c", "text": "SQL and cryptography"},
+      {"value": "d", "text": "Offline automation"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A student’s ML model predicts school grades from attendance data. The target variable is:",
+    "options": [
+      {"value": "a", "text": "Grades"},
+      {"value": "b", "text": "Attendance"},
+      {"value": "c", "text": "Number of students"},
+      {"value": "d", "text": "Age"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "In e-commerce, delayed confirmation emails are most likely caused by:",
+    "options": [
+      {"value": "a", "text": "Mail server queueing"},
+      {"value": "b", "text": "Low battery"},
+      {"value": "c", "text": "IoT error"},
+      {"value": "d", "text": "Frontend lag"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A user uploads an image to identify plants. The app uses:",
+    "options": [
+      {"value": "a", "text": "Image recognition with trained ML models"},
+      {"value": "b", "text": "Manual tagging"},
+      {"value": "c", "text": "SQL joins"},
+      {"value": "d", "text": "Encryption only"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A school uses biometric entry systems to record attendance automatically. This is an example of:",
+    "options": [
+      {"value": "a", "text": "Automation with AI integration"},
+      {"value": "b", "text": "Manual database input"},
+      {"value": "c", "text": "Blockchain validation"},
+      {"value": "d", "text": "Virtualization"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "If a smart city traffic system fails due to no internet, which design improvement would help most?",
+    "options": [
+      {"value": "a", "text": "Edge computing for local processing"},
+      {"value": "b", "text": "Cloud-only system"},
+      {"value": "c", "text": "Manual override"},
+      {"value": "d", "text": "Video compression"}
+    ],
+    "correct": "a"
+  }
+]

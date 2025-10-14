@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Which of the following best explains why 5G is crucial for IoT?",
+    "options": [
+      {"value": "a", "text": "It reduces battery consumption of devices"},
+      {"value": "b", "text": "It allows faster, real-time data transfer for connected devices"},
+      {"value": "c", "text": "It replaces WiFi for gaming only"},
+      {"value": "d", "text": "It increases device lifespan automatically"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "The foreign key in one table corresponds to what in another?",
+    "options": [
+      {"value": "a", "text": "Primary key"},
+      {"value": "b", "text": "Null field"},
+      {"value": "c", "text": "Data value"},
+      {"value": "d", "text": "Index"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What makes VR different from AR in user experience?",
+    "options": [
+      {"value": "a", "text": "VR merges real and digital data"},
+      {"value": "b", "text": "VR replaces the real environment entirely"},
+      {"value": "c", "text": "VR uses only holograms"},
+      {"value": "d", "text": "VR cannot include sound"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "In a machine learning model, “training data” is mainly used to:",
+    "options": [
+      {"value": "a", "text": "Generate random outputs"},
+      {"value": "b", "text": "Teach the algorithm to identify patterns"},
+      {"value": "c", "text": "Encrypt user passwords"},
+      {"value": "d", "text": "Clean viruses from data"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "A robot’s actuator is mainly responsible for:",
+    "options": [
+      {"value": "a", "text": "Data storage"},
+      {"value": "b", "text": "Performing physical movements"},
+      {"value": "c", "text": "Sending wireless signals"},
+      {"value": "d", "text": "Generating code"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "A major advantage of cloud computing over local storage is:",
+    "options": [
+      {"value": "a", "text": "Complete offline access"},
+      {"value": "b", "text": "Accessibility from anywhere via the internet"},
+      {"value": "c", "text": "Zero dependence on servers"},
+      {"value": "d", "text": "Automatic virus removal"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "Which of the following is not a type of E-commerce?",
+    "options": [
+      {"value": "a", "text": "B2C"},
+      {"value": "b", "text": "C2B"},
+      {"value": "c", "text": "P2P"},
+      {"value": "d", "text": "B2B"}
+    ],
+    "correct": "c"
+  },
+  {
+    "question": "What’s the main function of sensors in a robot?",
+    "options": [
+      {"value": "a", "text": "Provide power"},
+      {"value": "b", "text": "Detect environmental data like light or motion"},
+      {"value": "c", "text": "Store program memory"},
+      {"value": "d", "text": "Create visual simulations"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "What is the most likely result of phishing?",
+    "options": [
+      {"value": "a", "text": "Hardware overheating"},
+      {"value": "b", "text": "Stolen personal data"},
+      {"value": "c", "text": "Deleted software"},
+      {"value": "d", "text": "Increased battery use"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "The term “cloud cluster” refers to:",
+    "options": [
+      {"value": "a", "text": "One large physical computer"},
+      {"value": "b", "text": "A group of servers working together as a single system"},
+      {"value": "c", "text": "A backup copy of files"},
+      {"value": "d", "text": "A public access point"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "Which command is used in SQL to add new records?",
+    "options": [
+      {"value": "a", "text": "INSERT"},
+      {"value": "b", "text": "ADD"},
+      {"value": "c", "text": "INCLUDE"},
+      {"value": "d", "text": "ENTER"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of these best defines green digitalization?",
+    "options": [
+      {"value": "a", "text": "Automating all industries using robotics"},
+      {"value": "b", "text": "Using digital tools sustainably to reduce pollution"},
+      {"value": "c", "text": "Storing physical waste data digitally"},
+      {"value": "d", "text": "Producing green-colored computer chips"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "A self-driving car primarily relies on which technology pair?",
+    "options": [
+      {"value": "a", "text": "AI + Sensors"},
+      {"value": "b", "text": "Cloud + Email"},
+      {"value": "c", "text": "VR + Holography"},
+      {"value": "d", "text": "Robotics + Blockchain"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which one is an example of AR use?",
+    "options": [
+      {"value": "a", "text": "Visiting Mars in VR goggles"},
+      {"value": "b", "text": "Seeing digital furniture placed in your real room via an app"},
+      {"value": "c", "text": "Watching a movie on a headset"},
+      {"value": "d", "text": "Listening to 3D audio"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "In the CIA triad, “Integrity” ensures:",
+    "options": [
+      {"value": "a", "text": "Data is accurate and unchanged"},
+      {"value": "b", "text": "Data is hidden from users"},
+      {"value": "c", "text": "Data is freely available to everyone"},
+      {"value": "d", "text": "Systems are easy to hack"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is the main disadvantage of IoT in security?",
+    "options": [
+      {"value": "a", "text": "No Wi-Fi"},
+      {"value": "b", "text": "Devices are interconnected and vulnerable to hacking"},
+      {"value": "c", "text": "Data transfer is too fast"},
+      {"value": "d", "text": "Limited sensors"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "AI-based chatbots like ChatGPT rely mostly on:",
+    "options": [
+      {"value": "a", "text": "Neural networks"},
+      {"value": "b", "text": "Manual scripts"},
+      {"value": "c", "text": "Flowcharts"},
+      {"value": "d", "text": "Static code"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is the purpose of haptic devices in VR?",
+    "options": [
+      {"value": "a", "text": "To provide physical feedback sensations"},
+      {"value": "b", "text": "To track GPS location"},
+      {"value": "c", "text": "To record video"},
+      {"value": "d", "text": "To enhance sound clarity"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "The “brain” of IoT operations that analyzes and reacts to data is:",
+    "options": [
+      {"value": "a", "text": "Actuator"},
+      {"value": "b", "text": "Cloud or edge computing system"},
+      {"value": "c", "text": "GPS"},
+      {"value": "d", "text": "Electric motor"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "A hybrid cloud is best described as:",
+    "options": [
+      {"value": "a", "text": "Public + Private cloud combination"},
+      {"value": "b", "text": "Two public clouds combined"},
+      {"value": "c", "text": "Personal storage on phone"},
+      {"value": "d", "text": "Offline-only data storage"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Two-Factor Authentication protects accounts by:",
+    "options": [
+      {"value": "a", "text": "Using password plus secondary verification"},
+      {"value": "b", "text": "Limiting access by IP only"},
+      {"value": "c", "text": "Encrypting all emails"},
+      {"value": "d", "text": "Hiding usernames"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "The primary goal of machine learning is:",
+    "options": [
+      {"value": "a", "text": "Making computers memorize data"},
+      {"value": "b", "text": "Allowing systems to learn and improve automatically"},
+      {"value": "c", "text": "Creating computer viruses"},
+      {"value": "d", "text": "Storing data permanently"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "Which database key helps maintain relationships between tables?",
+    "options": [
+      {"value": "a", "text": "Super key"},
+      {"value": "b", "text": "Foreign key"},
+      {"value": "c", "text": "Null key"},
+      {"value": "d", "text": "Field key"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "In a robot, automation means:",
+    "options": [
+      {"value": "a", "text": "Performing programmed tasks without human help"},
+      {"value": "b", "text": "Recording music"},
+      {"value": "c", "text": "Always requiring remote control"},
+      {"value": "d", "text": "Manual code execution each time"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A B2C example among the following is:",
+    "options": [
+      {"value": "a", "text": "Selling old phone on Bikroy"},
+      {"value": "b", "text": "Buying groceries from Daraz"},
+      {"value": "c", "text": "Freelancer selling design to company"},
+      {"value": "d", "text": "Wholesaler supplying to retailer"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "Malware is a term describing:",
+    "options": [
+      {"value": "a", "text": "Legal antivirus software"},
+      {"value": "b", "text": "Any software meant to damage or steal data"},
+      {"value": "c", "text": "Computer drivers"},
+      {"value": "d", "text": "Cloud storage"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "The Metaverse heavily depends on:",
+    "options": [
+      {"value": "a", "text": "VR and AR integration in shared spaces"},
+      {"value": "b", "text": "Cloud-only storage"},
+      {"value": "c", "text": "Blockchain mining"},
+      {"value": "d", "text": "Physical robotics"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which device type usually supports AR apps best?",
+    "options": [
+      {"value": "a", "text": "Old feature phones"},
+      {"value": "b", "text": "Smartphones and AR glasses"},
+      {"value": "c", "text": "Analog watches"},
+      {"value": "d", "text": "CRT monitors"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "SQL SELECT command is used for:",
+    "options": [
+      {"value": "a", "text": "Removing data"},
+      {"value": "b", "text": "Querying and displaying data"},
+      {"value": "c", "text": "Backing up data"},
+      {"value": "d", "text": "Encrypting tables"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "A server outage in cloud computing primarily causes:",
+    "options": [
+      {"value": "a", "text": "Faster downloads"},
+      {"value": "b", "text": "Temporary loss of access to online data"},
+      {"value": "c", "text": "Permanent file corruption"},
+      {"value": "d", "text": "Increased battery usage"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "Encryption in cybersecurity ensures:",
+    "options": [
+      {"value": "a", "text": "Only authorized users can read data"},
+      {"value": "b", "text": "Free sharing of data"},
+      {"value": "c", "text": "Automatic system repair"},
+      {"value": "d", "text": "Data deletion after use"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of the following is an industrial robot use case?",
+    "options": [
+      {"value": "a", "text": "Performing surgery"},
+      {"value": "b", "text": "Assembling cars"},
+      {"value": "c", "text": "Teaching coding"},
+      {"value": "d", "text": "Home cleaning"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "What’s the key difference between AI and Machine Learning?",
+    "options": [
+      {"value": "a", "text": "AI learns by itself; ML does not"},
+      {"value": "b", "text": "ML is a subset of AI focused on learning from data"},
+      {"value": "c", "text": "AI is limited to robotics only"},
+      {"value": "d", "text": "ML runs only offline"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "A relational database primarily organizes data into:",
+    "options": [
+      {"value": "a", "text": "Arrays"},
+      {"value": "b", "text": "Linked tables"},
+      {"value": "c", "text": "Binary files"},
+      {"value": "d", "text": "Text documents"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "Data redundancy is used in cloud systems mainly for:",
+    "options": [
+      {"value": "a", "text": "Backup reliability"},
+      {"value": "b", "text": "Reducing duplication"},
+      {"value": "c", "text": "Data compression"},
+      {"value": "d", "text": "Offline storage"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "A major ethical concern in AI is:",
+    "options": [
+      {"value": "a", "text": "Slow processing"},
+      {"value": "b", "text": "Job displacement and misuse of data"},
+      {"value": "c", "text": "Lack of colors in robots"},
+      {"value": "d", "text": "Too much coding"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "Smart homes represent what technology’s use?",
+    "options": [
+      {"value": "a", "text": "IoT"},
+      {"value": "b", "text": "AI"},
+      {"value": "c", "text": "VR"},
+      {"value": "d", "text": "Blockchain"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of the following would make an e-commerce platform lose customer trust fastest?",
+    "options": [
+      {"value": "a", "text": "Long product descriptions"},
+      {"value": "b", "text": "Repeated late or wrong deliveries"},
+      {"value": "c", "text": "Too many ads"},
+      {"value": "d", "text": "No offline store"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "The first chatbot Eliza (1966) inspired which AI innovation?",
+    "options": [
+      {"value": "a", "text": "Speech recognition"},
+      {"value": "b", "text": "Conversational chatbots like ChatGPT"},
+      {"value": "c", "text": "Machine translation"},
+      {"value": "d", "text": "Gaming AI"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "Primary key in a database must:",
+    "options": [
+      {"value": "a", "text": "Be unique for every record"},
+      {"value": "b", "text": "Be repeated"},
+      {"value": "c", "text": "Contain formulas"},
+      {"value": "d", "text": "Be a date field"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of the following can cause motion sickness?",
+    "options": [
+      {"value": "a", "text": "AR in low light"},
+      {"value": "b", "text": "VR headsets with poor refresh rate"},
+      {"value": "c", "text": "Database lag"},
+      {"value": "d", "text": "Chatbot delay"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "Wearable fitness bands are examples of:",
+    "options": [
+      {"value": "a", "text": "Robotics"},
+      {"value": "b", "text": "IoT"},
+      {"value": "c", "text": "Cloud software"},
+      {"value": "d", "text": "Cybersecurity hardware"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "The main environmental benefit of green digitalization is:",
+    "options": [
+      {"value": "a", "text": "Reduces paper use and energy waste"},
+      {"value": "b", "text": "Increases data traffic"},
+      {"value": "c", "text": "Creates more servers"},
+      {"value": "d", "text": "Expands landfills"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of these would most likely use supervised machine learning?",
+    "options": [
+      {"value": "a", "text": "Classifying spam emails"},
+      {"value": "b", "text": "Encrypting files"},
+      {"value": "c", "text": "Tracking battery health"},
+      {"value": "d", "text": "Backing up data"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "The main component of cloud infrastructure that stores user files is:",
+    "options": [
+      {"value": "a", "text": "Hard drive in the user’s device"},
+      {"value": "b", "text": "Remote servers and clusters"},
+      {"value": "c", "text": "USB drives"},
+      {"value": "d", "text": "Wireless routers"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "A major risk of AI chatbots in customer support is:",
+    "options": [
+      {"value": "a", "text": "Over-personalization or biased responses"},
+      {"value": "b", "text": "Reduced message speed"},
+      {"value": "c", "text": "Poor battery efficiency"},
+      {"value": "d", "text": "Overheating devices"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Holography in VR can best be described as:",
+    "options": [
+      {"value": "a", "text": "3D projection of images into real space"},
+      {"value": "b", "text": "Wireless gaming"},
+      {"value": "c", "text": "Audio compression"},
+      {"value": "d", "text": "Screen resolution upgrade"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "SQL is important in database management because it:",
+    "options": [
+      {"value": "a", "text": "Designs VR environments"},
+      {"value": "b", "text": "Controls and queries structured data"},
+      {"value": "c", "text": "Repairs hardware"},
+      {"value": "d", "text": "Runs AI simulations"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "Which of these is a disadvantage of IoT?",
+    "options": [
+      {"value": "a", "text": "Automation"},
+      {"value": "b", "text": "High energy efficiency"},
+      {"value": "c", "text": "Privacy concerns"},
+      {"value": "d", "text": "Real-time monitoring"}
+    ],
+    "correct": "c"
+  },
+  {
+    "question": "The main link between cloud computing and AI systems is:",
+    "options": [
+      {"value": "a", "text": "Cloud provides massive storage and processing for AI models"},
+      {"value": "b", "text": "AI removes need for internet"},
+      {"value": "c", "text": "Cloud replaces datasets"},
+      {"value": "d", "text": "AI encrypts cloud servers"}
+    ],
+    "correct": "a"
+  }
+]
