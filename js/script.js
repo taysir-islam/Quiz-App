@@ -2,7 +2,10 @@ const quizTitles = {
   gk: "General Knowledge Quiz",
   sci: "Science Quiz",
   history: "History Quiz",
-  sports: "Sports Quiz"
+  sports: "Sports Quiz",
+  ictob:'ICT level 1',
+  ictob2:'ICT level 2',
+  ictob3:'ICT Level 3'
 };
 
 async function loadQuiz() {
@@ -24,7 +27,10 @@ async function loadQuiz() {
       gk: '../quiz_question/gk.json',
       sci: '../quiz_question/sci.json',
       history: '../quiz_question/history.json',
-      sports: '../quiz_question/sports.json'
+      sports: '../quiz_question/sports.json',
+      ictob: '../quiz_question/ictob.json',
+      ictob2: '../quiz_question/ictob2.json',
+      ictob3: '../quiz_question/ictob3.json'
     }[quizType] || '../quiz_question/gk.json';
     const res = await fetch(quizFile);
     questions = await res.json();
