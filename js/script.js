@@ -31,7 +31,8 @@ async function loadQuiz() {
       sports: '../quiz_question/sports.json',
       ictob: '../quiz_question/ictob.json',
       ictob2: '../quiz_question/ictob2.json',
-      ictob3: '../quiz_question/ictob3.json'
+      ictob3: '../quiz_question/ictob3.json',
+      ictob4: '../quiz_question/ictob4.json'
     }[quizType] || '../quiz_question/gk.json';
     const res = await fetch(quizFile);
     questions = await res.json();
