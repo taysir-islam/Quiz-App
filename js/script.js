@@ -5,7 +5,8 @@ const quizTitles = {
   sports: "Sports Quiz",
   ictob:'ICT level 1',
   ictob2:'ICT level 2',
-  ictob3:'ICT Level 3'
+  ictob3:'ICT Level 3',
+  ictob4:'ICT Level 4'
 };
 
 async function loadQuiz() {
