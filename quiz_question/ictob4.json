@@ -1,1872 +1,1242 @@
 [
   {
-    "question": "Which protocol operates at the Network Layer of the OSI model?",
+    "question": "What does ICT stand for?",
     "options": [
-      {"value": "a", "text": "HTTP"},
-      {"value": "b", "text": "FTP"},
-      {"value": "c", "text": "IP"},
-      {"value": "d", "text": "TCP"}
-    ],
-    "correct": "c"
-  },
-  {
-    "question": "What does the 'S' stand for in HTTPS?",
-    "options": [
-      {"value": "a", "text": "Secure"},
-      {"value": "b", "text": "Standard"},
-      {"value": "c", "text": "System"},
-      {"value": "d", "text": "Server"}
+      {"value": "a", "text": "Information and Communication Technology"},
+      {"value": "b", "text": "International Computer Technology"},
+      {"value": "c", "text": "Internet Connection Tools"},
+      {"value": "d", "text": "Integrated Computer Training"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which data structure uses LIFO (Last In First Out) principle?",
+    "question": "Which device is used to type on a computer?",
     "options": [
-      {"value": "a", "text": "Queue"},
-      {"value": "b", "text": "Stack"},
-      {"value": "c", "text": "Array"},
-      {"value": "d", "text": "Linked List"}
+      {"value": "a", "text": "Mouse"},
+      {"value": "b", "text": "Keyboard"},
+      {"value": "c", "text": "Monitor"},
+      {"value": "d", "text": "Printer"}
     ],
     "correct": "b"
   },
   {
-    "question": "What is the primary function of a router in a network?",
+    "question": "What is the brain of the computer called?",
     "options": [
-      {"value": "a", "text": "Connect devices within the same network"},
-      {"value": "b", "text": "Assign IP addresses"},
-      {"value": "c", "text": "Forward data between different networks"},
-      {"value": "d", "text": "Filter web content"}
+      {"value": "a", "text": "RAM"},
+      {"value": "b", "text": "CPU"},
+      {"value": "c", "text": "Hard Disk"},
+      {"value": "d", "text": "Mouse"}
+    ],
+    "correct": "b"
+  },
+  {
+    "question": "Which device shows you pictures and text on a computer?",
+    "options": [
+      {"value": "a", "text": "Printer"},
+      {"value": "b", "text": "Speaker"},
+      {"value": "c", "text": "Monitor"},
+      {"value": "d", "text": "Keyboard"}
     ],
     "correct": "c"
   },
   {
-    "question": "Which programming language is primarily used for Android app development?",
+    "question": "What is software?",
     "options": [
-      {"value": "a", "text": "Swift"},
-      {"value": "b", "text": "Java"},
-      {"value": "c", "text": "C#"},
-      {"value": "d", "text": "Python"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "What does SQL stand for?",
-    "options": [
-      {"value": "a", "text": "Structured Query Language"},
-      {"value": "b", "text": "Simple Query Logic"},
-      {"value": "c", "text": "Standard Question Language"},
-      {"value": "d", "text": "System Query Loop"}
+      {"value": "a", "text": "Programs that tell the computer what to do"},
+      {"value": "b", "text": "Parts of the computer you can touch"},
+      {"value": "c", "text": "Cables that connect the computer"},
+      {"value": "d", "text": "The desk where the computer sits"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is NOT a NoSQL database type?",
+    "question": "Which of these is an example of software?",
     "options": [
-      {"value": "a", "text": "Document"},
-      {"value": "b", "text": "Key-Value"},
-      {"value": "c", "text": "Relational"},
-      {"value": "d", "text": "Graph"}
-    ],
-    "correct": "c"
-  },
-  {
-    "question": "What is the binary equivalent of decimal number 25?",
-    "options": [
-      {"value": "a", "text": "11001"},
-      {"value": "b", "text": "10110"},
-      {"value": "c", "text": "10011"},
-      {"value": "d", "text": "11100"}
+      {"value": "a", "text": "Microsoft Word"},
+      {"value": "b", "text": "Keyboard"},
+      {"value": "c", "text": "Mouse"},
+      {"value": "d", "text": "Monitor"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which algorithm is used for routing data packets in the Internet?",
+    "question": "What is hardware?",
     "options": [
-      {"value": "a", "text": "Dijkstra's algorithm"},
-      {"value": "b", "text": "Bubble Sort"},
-      {"value": "c", "text": "Quick Sort"},
-      {"value": "d", "text": "Binary Search"}
+      {"value": "a", "text": "Parts of the computer you can touch"},
+      {"value": "b", "text": "Programs that run on the computer"},
+      {"value": "c", "text": "Websites on the internet"},
+      {"value": "d", "text": "Pictures on the screen"}
     ],
     "correct": "a"
   },
   {
-    "question": "What does the 'C' in CSS stand for?",
+    "question": "Which of these is hardware?",
     "options": [
-      {"value": "a", "text": "Computer"},
-      {"value": "b", "text": "Creative"},
-      {"value": "c", "text": "Cascading"},
-      {"value": "d", "text": "Coding"}
+      {"value": "a", "text": "Windows operating system"},
+      {"value": "b", "text": "Microsoft Word"},
+      {"value": "c", "text": "Printer"},
+      {"value": "d", "text": "Google Chrome"}
     ],
     "correct": "c"
   },
   {
-    "question": "Which technology is used for wireless communication over short distances?",
+    "question": "What is a computer network?",
     "options": [
-      {"value": "a", "text": "5G"},
-      {"value": "b", "text": "Bluetooth"},
-      {"value": "c", "text": "Fiber Optic"},
-      {"value": "d", "text": "Ethernet"}
+      {"value": "a", "text": "Many computers connected together"},
+      {"value": "b", "text": "A single computer by itself"},
+      {"value": "c", "text": "A computer without internet"},
+      {"value": "d", "text": "A computer only for games"}
     ],
-    "correct": "b"
+    "correct": "a"
   },
   {
-    "question": "What is the main purpose of an API?",
+    "question": "What is the internet?",
     "options": [
-      {"value": "a", "text": "Store user data"},
-      {"value": "b", "text": "Enable communication between software components"},
-      {"value": "c", "text": "Design user interfaces"},
-      {"value": "d", "text": "Encrypt data"}
+      {"value": "a", "text": "A network connecting computers worldwide"},
+      {"value": "b", "text": "A single computer program"},
+      {"value": "c", "text": "A type of computer hardware"},
+      {"value": "d", "text": "A computer game"}
     ],
-    "correct": "b"
+    "correct": "a"
   },
   {
-    "question": "Which of these is a valid IPv6 address?",
+    "question": "Which device connects your computer to the internet?",
     "options": [
-      {"value": "a", "text": "192.168.1.1"},
-      {"value": "b", "text": "2001:0db8:85a3:0000:0000:8a2e:0370:7334"},
-      {"value": "c", "text": "10.0.0.1"},
-      {"value": "d", "text": "172.16.254.1"}
+      {"value": "a", "text": "Modem"},
+      {"value": "b", "text": "Keyboard"},
+      {"value": "c", "text": "Mouse"},
+      {"value": "d", "text": "Monitor"}
     ],
-    "correct": "b"
+    "correct": "a"
   },
   {
-    "question": "What does the 'M' in MIME stand for?",
+    "question": "What does LAN stand for?",
     "options": [
-      {"value": "a", "text": "Multimedia"},
-      {"value": "b", "text": "Multipurpose"},
-      {"value": "c", "text": "Machine"},
-      {"value": "d", "text": "Management"}
+      {"value": "a", "text": "Local Area Network"},
+      {"value": "b", "text": "Large Area Network"},
+      {"value": "c", "text": "Long Area Network"},
+      {"value": "d", "text": "Light Area Network"}
     ],
-    "correct": "b"
+    "correct": "a"
   },
   {
-    "question": "Which data type can store fractional numbers in SQL?",
+    "question": "What is a router?",
     "options": [
-      {"value": "a", "text": "INT"},
-      {"value": "b", "text": "VARCHAR"},
-      {"value": "c", "text": "BOOLEAN"},
-      {"value": "d", "text": "DECIMAL"}
+      {"value": "a", "text": "A device that connects networks together"},
+      {"value": "b", "text": "A device that types words"},
+      {"value": "c", "text": "A device that shows pictures"},
+      {"value": "d", "text": "A device that prints papers"}
     ],
-    "correct": "d"
+    "correct": "a"
   },
   {
-    "question": "What is the primary function of a firewall?",
+    "question": "What is a website?",
     "options": [
-      {"value": "a", "text": "Store data"},
-      {"value": "b", "text": "Monitor network traffic and block unauthorized access"},
-      {"value": "c", "text": "Assign IP addresses"},
-      {"value": "d", "text": "Translate domain names to IP addresses"}
+      {"value": "a", "text": "A collection of web pages"},
+      {"value": "b", "text": "A single computer"},
+      {"value": "c", "text": "A type of software"},
+      {"value": "d", "text": "A type of hardware"}
     ],
-    "correct": "b"
+    "correct": "a"
   },
   {
-    "question": "Which of these is NOT a symmetric encryption algorithm?",
+    "question": "Which of these is a web browser?",
     "options": [
-      {"value": "a", "text": "AES"},
-      {"value": "b", "text": "DES"},
-      {"value": "c", "text": "RSA"},
-      {"value": "d", "text": "Blowfish"}
+      {"value": "a", "text": "Google Chrome"},
+      {"value": "b", "text": "Microsoft Word"},
+      {"value": "c", "text": "Calculator"},
+      {"value": "d", "text": "Paint"}
     ],
-    "correct": "c"
+    "correct": "a"
   },
   {
-    "question": "What is the default port for HTTPS?",
+    "question": "What is a programming language?",
     "options": [
-      {"value": "a", "text": "80"},
-      {"value": "b", "text": "443"},
-      {"value": "c", "text": "22"},
-      {"value": "d", "text": "25"}
+      {"value": "a", "text": "A language used to give instructions to computers"},
+      {"value": "b", "text": "A language used to talk to people"},
+      {"value": "c", "text": "A language used only in schools"},
+      {"value": "d", "text": "A language used only in offices"}
     ],
-    "correct": "b"
+    "correct": "a"
   },
   {
-    "question": "Which programming paradigm focuses on 'objects' containing data and methods?",
+    "question": "Which of these is a programming language?",
     "options": [
-      {"value": "a", "text": "Procedural Programming"},
-      {"value": "b", "text": "Functional Programming"},
-      {"value": "c", "text": "Object-Oriented Programming"},
-      {"value": "d", "text": "Logic Programming"}
-    ],
-    "correct": "c"
-  },
-  {
-    "question": "What does the 'R' in RAID stand for?",
-    "options": [
-      {"value": "a", "text": "Random"},
-      {"value": "b", "text": "Redundant"},
-      {"value": "c", "text": "Rapid"},
-      {"value": "d", "text": "Reliable"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which protocol is used for secure remote server access?",
-    "options": [
-      {"value": "a", "text": "FTP"},
-      {"value": "b", "text": "SSH"},
+      {"value": "a", "text": "Python"},
+      {"value": "b", "text": "HTML"},
       {"value": "c", "text": "HTTP"},
-      {"value": "d", "text": "SMTP"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "What is the time complexity of binary search?",
-    "options": [
-      {"value": "a", "text": "O(n)"},
-      {"value": "b", "text": "O(log n)"},
-      {"value": "c", "text": "O(n²)"},
-      {"value": "d", "text": "O(1)"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a client-side scripting language?",
-    "options": [
-      {"value": "a", "text": "PHP"},
-      {"value": "b", "text": "JavaScript"},
-      {"value": "c", "text": "Python"},
-      {"value": "d", "text": "Ruby"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "What does the 'D' in DNS stand for?",
-    "options": [
-      {"value": "a", "text": "Data"},
-      {"value": "b", "text": "Dynamic"},
-      {"value": "c", "text": "Domain"},
-      {"value": "d", "text": "Digital"}
-    ],
-    "correct": "c"
-  },
-  {
-    "question": "Which of these is NOT a valid HTTP status code?",
-    "options": [
-      {"value": "a", "text": "200"},
-      {"value": "b", "text": "404"},
-      {"value": "c", "text": "500"},
-      {"value": "d", "text": "700"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary purpose of an operating system?",
-    "options": [
-      {"value": "a", "text": "Create documents"},
-      {"value": "b", "text": "Manage hardware and software resources"},
-      {"value": "c", "text": "Browse the internet"},
-      {"value": "d", "text": "Write code"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a version control system?",
-    "options": [
-      {"value": "a", "text": "Jenkins"},
-      {"value": "b", "text": "Git"},
-      {"value": "c", "text": "Docker"},
-      {"value": "d", "text": "Kubernetes"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "What does the 'T' in TCP stand for?",
-    "options": [
-      {"value": "a", "text": "Transmission"},
-      {"value": "b", "text": "Transport"},
-      {"value": "c", "text": "Terminal"},
-      {"value": "d", "text": "Transaction"}
+      {"value": "d", "text": "URL"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of cyber attack that floods a system with traffic?",
+    "question": "What is a variable in programming?",
     "options": [
-      {"value": "a", "text": "Phishing"},
-      {"value": "b", "text": "DDoS"},
-      {"value": "c", "text": "Malware"},
-      {"value": "d", "text": "Spoofing"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "What is the smallest unit of data in a computer?",
-    "options": [
-      {"value": "a", "text": "Byte"},
-      {"value": "b", "text": "Bit"},
-      {"value": "c", "text": "Kilobyte"},
-      {"value": "d", "text": "Megabyte"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is NOT a cloud service model?",
-    "options": [
-      {"value": "a", "text": "IaaS"},
-      {"value": "b", "text": "PaaS"},
-      {"value": "c", "text": "SaaS"},
-      {"value": "d", "text": "CaaS"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'I' in IoT stand for?",
-    "options": [
-      {"value": "a", "text": "Integrated"},
-      {"value": "b", "text": "Intelligent"},
-      {"value": "c", "text": "Internet"},
-      {"value": "d", "text": "Interactive"}
-    ],
-    "correct": "c"
-  },
-  {
-    "question": "Which of these is a type of AI that focuses on creating new content?",
-    "options": [
-      {"value": "a", "text": "Machine Learning"},
-      {"value": "b", "text": "Deep Learning"},
-      {"value": "c", "text": "Natural Language Processing"},
-      {"value": "d", "text": "Generative AI"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a compiler?",
-    "options": [
-      {"value": "a", "text": "Execute code line by line"},
-      {"value": "b", "text": "Translate high-level code to machine code"},
-      {"value": "c", "text": "Debug code"},
-      {"value": "d", "text": "Optimize database queries"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a characteristic of green computing?",
-    "options": [
-      {"value": "a", "text": "Maximizing processing power"},
-      {"value": "b", "text": "Reducing energy consumption"},
-      {"value": "c", "text": "Increasing hardware costs"},
-      {"value": "d", "text": "Extending device lifespan"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "What does the 'E' in e-commerce stand for?",
-    "options": [
-      {"value": "a", "text": "Easy"},
-      {"value": "b", "text": "Electronic"},
-      {"value": "c", "text": "Efficient"},
-      {"value": "d", "text": "Economic"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is NOT a type of malware?",
-    "options": [
-      {"value": "a", "text": "Virus"},
-      {"value": "b", "text": "Firewall"},
-      {"value": "c", "text": "Trojan Horse"},
-      {"value": "d", "text": "Ransomware"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "What is the primary purpose of a VPN?",
-    "options": [
-      {"value": "a", "text": "Increase internet speed"},
-      {"value": "b", "text": "Provide secure remote access"},
-      {"value": "c", "text": "Block advertisements"},
-      {"value": "d", "text": "Store user data"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of database normalization?",
-    "options": [
-      {"value": "a", "text": "First Normal Form"},
-      {"value": "b", "text": "Second Normal Form"},
-      {"value": "c", "text": "Third Normal Form"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'H' in HTML stand for?",
-    "options": [
-      {"value": "a", "text": "Hyperlink"},
-      {"value": "b", "text": "Hypertext"},
-      {"value": "c", "text": "High-level"},
-      {"value": "d", "text": "Hybrid"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of network topology?",
-    "options": [
-      {"value": "a", "text": "Star"},
-      {"value": "b", "text": "Bus"},
-      {"value": "c", "text": "Mesh"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of RAM in a computer?",
-    "options": [
-      {"value": "a", "text": "Store data permanently"},
-      {"value": "b", "text": "Provide temporary storage for active programs"},
-      {"value": "c", "text": "Manage input/output operations"},
-      {"value": "d", "text": "Execute program instructions"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of machine learning algorithm?",
-    "options": [
-      {"value": "a", "text": "Supervised Learning"},
-      {"value": "b", "text": "Unsupervised Learning"},
-      {"value": "c", "text": "Reinforcement Learning"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'W' in WAN stand for?",
-    "options": [
-      {"value": "a", "text": "Wireless"},
-      {"value": "b", "text": "Wide"},
-      {"value": "c", "text": "World"},
-      {"value": "d", "text": "Workstation"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of cyber attack that tricks users into revealing sensitive information?",
-    "options": [
-      {"value": "a", "text": "DDoS"},
-      {"value": "b", "text": "Phishing"},
-      {"value": "c", "text": "Brute Force"},
-      {"value": "d", "text": "SQL Injection"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "What is the primary purpose of an operating system kernel?",
-    "options": [
-      {"value": "a", "text": "Provide user interface"},
-      {"value": "b", "text": "Manage hardware resources"},
-      {"value": "c", "text": "Run applications"},
-      {"value": "d", "text": "Store files"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of computer memory that is non-volatile?",
-    "options": [
-      {"value": "a", "text": "RAM"},
-      {"value": "b", "text": "Cache"},
-      {"value": "c", "text": "ROM"},
-      {"value": "d", "text": "Register"}
-    ],
-    "correct": "c"
-  },
-  {
-    "question": "What does the 'P' in PaaS stand for?",
-    "options": [
-      {"value": "a", "text": "Platform"},
-      {"value": "b", "text": "Programming"},
-      {"value": "c", "text": "Processing"},
-      {"value": "d", "text": "Private"}
+      {"value": "a", "text": "A named place to store data"},
+      {"value": "b", "text": "A type of computer hardware"},
+      {"value": "c", "text": "A type of computer software"},
+      {"value": "d", "text": "A type of computer network"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of AI that mimics human brain structure?",
+    "question": "What is a database?",
     "options": [
-      {"value": "a", "text": "Expert Systems"},
-      {"value": "b", "text": "Neural Networks"},
-      {"value": "c", "text": "Genetic Algorithms"},
-      {"value": "d", "text": "Fuzzy Logic"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "What is the primary function of a load balancer?",
-    "options": [
-      {"value": "a", "text": "Store data"},
-      {"value": "b", "text": "Distribute network traffic across servers"},
-      {"value": "c", "text": "Encrypt data"},
-      {"value": "d", "text": "Authenticate users"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of e-commerce business model?",
-    "options": [
-      {"value": "a", "text": "B2B"},
-      {"value": "b", "text": "B2C"},
-      {"value": "c", "text": "C2C"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'G' in GPT stand for?",
-    "options": [
-      {"value": "a", "text": "Generative"},
-      {"value": "b", "text": "General"},
-      {"value": "c", "text": "Global"},
-      {"value": "d", "text": "Guided"}
+      {"value": "a", "text": "An organized collection of data"},
+      {"value": "b", "text": "A type of computer hardware"},
+      {"value": "c", "text": "A type of computer software"},
+      {"value": "d", "text": "A type of computer network"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of green computing practice?",
+    "question": "What is a loop in programming?",
     "options": [
-      {"value": "a", "text": "Virtualization"},
-      {"value": "b", "text": "Power Management"},
-      {"value": "c", "text": "Recycling Hardware"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary purpose of a sensor in IoT?",
-    "options": [
-      {"value": "a", "text": "Store data"},
-      {"value": "b", "text": "Collect environmental data"},
-      {"value": "c", "text": "Process data"},
-      {"value": "d", "text": "Transmit data"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of robotics programming approach?",
-    "options": [
-      {"value": "a", "text": "Teleoperation"},
-      {"value": "b", "text": "Autonomous Control"},
-      {"value": "c", "text": "Behavior-Based"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'S' in SSD stand for?",
-    "options": [
-      {"value": "a", "text": "Secure"},
-      {"value": "b", "text": "Solid"},
-      {"value": "c", "text": "Static"},
-      {"value": "d", "text": "System"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of database transaction property?",
-    "options": [
-      {"value": "a", "text": "Atomicity"},
-      {"value": "b", "text": "Consistency"},
-      {"value": "c", "text": "Isolation"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a proxy server?",
-    "options": [
-      {"value": "a", "text": "Store data"},
-      {"value": "b", "text": "Act as intermediary for client requests"},
-      {"value": "c", "text": "Encrypt data"},
-      {"value": "d", "text": "Authenticate users"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of cloud deployment model?",
-    "options": [
-      {"value": "a", "text": "Public Cloud"},
-      {"value": "b", "text": "Private Cloud"},
-      {"value": "c", "text": "Hybrid Cloud"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'T' in IT stand for?",
-    "options": [
-      {"value": "a", "text": "Technology"},
-      {"value": "b", "text": "Telecommunication"},
-      {"value": "c", "text": "Terminal"},
-      {"value": "d", "text": "Transaction"}
+      {"value": "a", "text": "A sequence of instructions that repeats"},
+      {"value": "b", "text": "A single instruction that runs once"},
+      {"value": "c", "text": "A type of computer hardware"},
+      {"value": "d", "text": "A type of computer software"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of cybersecurity framework?",
+    "question": "What is cybersecurity?",
     "options": [
-      {"value": "a", "text": "NIST Cybersecurity Framework"},
-      {"value": "b", "text": "ISO 27001"},
-      {"value": "c", "text": "CIS Controls"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary purpose of an interpreter?",
-    "options": [
-      {"value": "a", "text": "Translate entire program at once"},
-      {"value": "b", "text": "Execute code line by line"},
-      {"value": "c", "text": "Optimize code performance"},
-      {"value": "d", "text": "Debug code"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of computer bus?",
-    "options": [
-      {"value": "a", "text": "Data Bus"},
-      {"value": "b", "text": "Address Bus"},
-      {"value": "c", "text": "Control Bus"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'C' in CPU stand for?",
-    "options": [
-      {"value": "a", "text": "Central"},
-      {"value": "b", "text": "Computer"},
-      {"value": "c", "text": "Computing"},
-      {"value": "d", "text": "Core"}
+      {"value": "a", "text": "Protecting computers from bad people"},
+      {"value": "b", "text": "Building computers"},
+      {"value": "c", "text": "Selling computers"},
+      {"value": "d", "text": "Fixing computers"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of AI application?",
+    "question": "What is a computer virus?",
     "options": [
-      {"value": "a", "text": "Chatbots"},
-      {"value": "b", "text": "Recommendation Systems"},
-      {"value": "c", "text": "Autonomous Vehicles"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a switch in a network?",
-    "options": [
-      {"value": "a", "text": "Connect different networks"},
-      {"value": "b", "text": "Connect devices within the same network"},
-      {"value": "c", "text": "Assign IP addresses"},
-      {"value": "d", "text": "Filter web content"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of database key?",
-    "options": [
-      {"value": "a", "text": "Primary Key"},
-      {"value": "b", "text": "Foreign Key"},
-      {"value": "c", "text": "Composite Key"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'N' in LAN stand for?",
-    "options": [
-      {"value": "a", "text": "Network"},
-      {"value": "b", "text": "Node"},
-      {"value": "c", "text": "New"},
-      {"value": "d", "text": "Number"}
+      {"value": "a", "text": "A bad program that can harm your computer"},
+      {"value": "b", "text": "A good program that helps your computer"},
+      {"value": "c", "text": "A type of computer hardware"},
+      {"value": "d", "text": "A type of computer software"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of cyber attack that exploits software vulnerabilities?",
+    "question": "What is a password used for?",
     "options": [
-      {"value": "a", "text": "Zero-Day Exploit"},
-      {"value": "b", "text": "Man-in-the-Middle"},
-      {"value": "c", "text": "Denial of Service"},
-      {"value": "d", "text": "Phishing"}
+      {"value": "a", "text": "To prove you are who you say you are"},
+      {"value": "b", "text": "To make your computer faster"},
+      {"value": "c", "text": "To print documents"},
+      {"value": "d", "text": "To connect to the internet"}
     ],
     "correct": "a"
   },
   {
-    "question": "What is the primary purpose of an API gateway?",
+    "question": "What is cloud computing?",
     "options": [
-      {"value": "a", "text": "Store data"},
-      {"value": "b", "text": "Manage API requests"},
-      {"value": "c", "text": "Encrypt data"},
-      {"value": "d", "text": "Authenticate users"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of programming paradigm?",
-    "options": [
-      {"value": "a", "text": "Object-Oriented"},
-      {"value": "b", "text": "Functional"},
-      {"value": "c", "text": "Procedural"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'V' in VLAN stand for?",
-    "options": [
-      {"value": "a", "text": "Virtual"},
-      {"value": "b", "text": "Visible"},
-      {"value": "c", "text": "Variable"},
-      {"value": "d", "text": "Verified"}
+      {"value": "a", "text": "Using computer services over the internet"},
+      {"value": "b", "text": "Using computers in the clouds"},
+      {"value": "c", "text": "Using computers only when it rains"},
+      {"value": "d", "text": "Using computers only in the sky"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of machine learning technique?",
+    "question": "Which of these is an example of cloud storage?",
     "options": [
-      {"value": "a", "text": "Decision Trees"},
-      {"value": "b", "text": "Neural Networks"},
-      {"value": "c", "text": "Support Vector Machines"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a hub in a network?",
-    "options": [
-      {"value": "a", "text": "Connect devices within the same network"},
-      {"value": "b", "text": "Filter network traffic"},
-      {"value": "c", "text": "Assign IP addresses"},
-      {"value": "d", "text": "Amplify signals"}
+      {"value": "a", "text": "Google Drive"},
+      {"value": "b", "text": "Hard Disk"},
+      {"value": "c", "text": "USB Flash Drive"},
+      {"value": "d", "text": "DVD"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of e-commerce payment system?",
+    "question": "What is e-commerce?",
     "options": [
-      {"value": "a", "text": "Credit Card"},
-      {"value": "b", "text": "Digital Wallet"},
-      {"value": "c", "text": "Cryptocurrency"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'I' in AI stand for?",
-    "options": [
-      {"value": "a", "text": "Intelligent"},
-      {"value": "b", "text": "Interactive"},
-      {"value": "c", "text": "Integrated"},
-      {"value": "d", "text": "Innovative"}
+      {"value": "a", "text": "Buying and selling things online"},
+      {"value": "b", "text": "Sending emails"},
+      {"value": "c", "text": "Playing games online"},
+      {"value": "d", "text": "Watching videos online"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of green computing technology?",
+    "question": "Which of these is an example of e-commerce?",
     "options": [
-      {"value": "a", "text": "Energy-Efficient Processors"},
-      {"value": "b", "text": "Solar-Powered Data Centers"},
-      {"value": "c", "text": "E-Waste Recycling Programs"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of an actuator in robotics?",
-    "options": [
-      {"value": "a", "text": "Sense environment"},
-      {"value": "b", "text": "Process data"},
-      {"value": "c", "text": "Produce motion or action"},
-      {"value": "d", "text": "Store energy"}
-    ],
-    "correct": "c"
-  },
-  {
-    "question": "Which of these is a type of database language?",
-    "options": [
-      {"value": "a", "text": "DDL"},
-      {"value": "b", "text": "DML"},
-      {"value": "c", "text": "DCL"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'H' in HTTP stand for?",
-    "options": [
-      {"value": "a", "text": "Hyperlink"},
-      {"value": "b", "text": "Hypertext"},
-      {"value": "c", "text": "High-level"},
-      {"value": "d", "text": "Hybrid"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of network device?",
-    "options": [
-      {"value": "a", "text": "Router"},
-      {"value": "b", "text": "Switch"},
-      {"value": "c", "text": "Hub"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a cache memory?",
-    "options": [
-      {"value": "a", "text": "Store data permanently"},
-      {"value": "b", "text": "Provide fast access to frequently used data"},
-      {"value": "c", "text": "Execute program instructions"},
-      {"value": "d", "text": "Manage input/output operations"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of AI that understands human language?",
-    "options": [
-      {"value": "a", "text": "Natural Language Processing"},
-      {"value": "b", "text": "Computer Vision"},
-      {"value": "c", "text": "Speech Recognition"},
-      {"value": "d", "text": "All of the above"}
+      {"value": "a", "text": "Amazon"},
+      {"value": "b", "text": "Google"},
+      {"value": "c", "text": "Facebook"},
+      {"value": "d", "text": "YouTube"}
     ],
     "correct": "a"
   },
   {
-    "question": "What does the 'P' in HTTP stand for?",
+    "question": "What is digital payment?",
     "options": [
-      {"value": "a", "text": "Protocol"},
-      {"value": "b", "text": "Process"},
-      {"value": "c", "text": "Program"},
-      {"value": "d", "text": "Packet"}
+      {"value": "a", "text": "Paying with electronic methods"},
+      {"value": "b", "text": "Paying with cash only"},
+      {"value": "c", "text": "Paying with checks only"},
+      {"value": "d", "text": "Paying with gold only"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of cybersecurity threat?",
+    "question": "What is green digitalization?",
     "options": [
-      {"value": "a", "text": "Malware"},
-      {"value": "b", "text": "Phishing"},
-      {"value": "c", "text": "Ransomware"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a modem?",
-    "options": [
-      {"value": "a", "text": "Connect devices within a network"},
-      {"value": "b", "text": "Modulate and demodulate signals"},
-      {"value": "c", "text": "Assign IP addresses"},
-      {"value": "d", "text": "Filter web content"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of programming language?",
-    "options": [
-      {"value": "a", "text": "Compiled"},
-      {"value": "b", "text": "Interpreted"},
-      {"value": "c", "text": "Scripting"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'T' in SMTP stand for?",
-    "options": [
-      {"value": "a", "text": "Transfer"},
-      {"value": "b", "text": "Transport"},
-      {"value": "c", "text": "Terminal"},
-      {"value": "d", "text": "Transaction"}
+      {"value": "a", "text": "Using technology to help the environment"},
+      {"value": "b", "text": "Painting computers green"},
+      {"value": "c", "text": "Using computers only in gardens"},
+      {"value": "d", "text": "Selling green computers"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of cloud storage service?",
+    "question": "How can digital technology help reduce paper usage?",
     "options": [
-      {"value": "a", "text": "Object Storage"},
-      {"value": "b", "text": "File Storage"},
-      {"value": "c", "text": "Block Storage"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a graphics processing unit (GPU)?",
-    "options": [
-      {"value": "a", "text": "Execute general-purpose instructions"},
-      {"value": "b", "text": "Render images and videos"},
-      {"value": "c", "text": "Store data"},
-      {"value": "d", "text": "Manage input/output operations"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of robotics sensor?",
-    "options": [
-      {"value": "a", "text": "Lidar"},
-      {"value": "b", "text": "Camera"},
-      {"value": "c", "text": "Ultrasonic"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'S' in SSL stand for?",
-    "options": [
-      {"value": "a", "text": "Secure"},
-      {"value": "b", "text": "System"},
-      {"value": "c", "text": "Standard"},
-      {"value": "d", "text": "Socket"}
+      {"value": "a", "text": "By using digital documents instead of paper"},
+      {"value": "b", "text": "By using more paper"},
+      {"value": "c", "text": "By printing more documents"},
+      {"value": "d", "text": "By buying more paper"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of database management system?",
+    "question": "What is e-waste?",
     "options": [
-      {"value": "a", "text": "Relational"},
-      {"value": "b", "text": "NoSQL"},
-      {"value": "c", "text": "Object-Oriented"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a network interface card (NIC)?",
-    "options": [
-      {"value": "a", "text": "Connect a computer to a network"},
-      {"value": "b", "text": "Store data"},
-      {"value": "c", "text": "Execute program instructions"},
-      {"value": "d", "text": "Manage input/output operations"}
+      {"value": "a", "text": "Old electronic devices that are thrown away"},
+      {"value": "b", "text": "Waste from food"},
+      {"value": "c", "text": "Waste from paper"},
+      {"value": "d", "text": "Waste from plastic"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of AI that creates new content?",
+    "question": "What should you do with old electronic devices?",
     "options": [
-      {"value": "a", "text": "Generative Adversarial Networks"},
-      {"value": "b", "text": "Variational Autoencoders"},
-      {"value": "c", "text": "Transformer Models"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'F' in FTP stand for?",
-    "options": [
-      {"value": "a", "text": "File"},
-      {"value": "b", "text": "Fast"},
-      {"value": "c", "text": "Functional"},
-      {"value": "d", "text": "Flexible"}
+      {"value": "a", "text": "Recycle them properly"},
+      {"value": "b", "text": "Throw them in the regular trash"},
+      {"value": "c", "text": "Bury them in the ground"},
+      {"value": "d", "text": "Throw them in the river"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of e-commerce platform?",
+    "question": "What does IoT stand for?",
     "options": [
-      {"value": "a", "text": "Marketplace"},
-      {"value": "b", "text": "SaaS"},
-      {"value": "c", "text": "Social Commerce"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a heat sink in a computer?",
-    "options": [
-      {"value": "a", "text": "Store data"},
-      {"value": "b", "text": "Dissipate heat"},
-      {"value": "c", "text": "Provide power"},
-      {"value": "d", "text": "Amplify signals"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of IoT communication protocol?",
-    "options": [
-      {"value": "a", "text": "MQTT"},
-      {"value": "b", "text": "CoAP"},
-      {"value": "c", "text": "Zigbee"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'M' in ML stand for?",
-    "options": [
-      {"value": "a", "text": "Modeling"},
-      {"value": "b", "text": "Mathematical"},
-      {"value": "c", "text": "Machine"},
-      {"value": "d", "text": "Modern"}
-    ],
-    "correct": "c"
-  },
-  {
-    "question": "Which of these is a type of cybersecurity control?",
-    "options": [
-      {"value": "a", "text": "Technical"},
-      {"value": "b", "text": "Administrative"},
-      {"value": "c", "text": "Physical"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a compiler?",
-    "options": [
-      {"value": "a", "text": "Execute code line by line"},
-      {"value": "b", "text": "Translate source code to machine code"},
-      {"value": "c", "text": "Debug code"},
-      {"value": "d", "text": "Optimize database queries"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of computer port?",
-    "options": [
-      {"value": "a", "text": "USB"},
-      {"value": "b", "text": "HDMI"},
-      {"value": "c", "text": "Ethernet"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'P' in PPTP stand for?",
-    "options": [
-      {"value": "a", "text": "Point"},
-      {"value": "b", "text": "Protocol"},
-      {"value": "c", "text": "Private"},
-      {"value": "d", "text": "Packet"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of robotics programming language?",
-    "options": [
-      {"value": "a", "text": "ROS"},
-      {"value": "b", "text": "Python"},
-      {"value": "c", "text": "C++"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a BIOS?",
-    "options": [
-      {"value": "a", "text": "Load operating system"},
-      {"value": "b", "text": "Store user data"},
-      {"value": "c", "text": "Execute applications"},
-      {"value": "d", "text": "Manage network connections"}
+      {"value": "a", "text": "Internet of Things"},
+      {"value": "b", "text": "Internet of Technology"},
+      {"value": "c", "text": "Internet of Tools"},
+      {"value": "d", "text": "Internet of Telecommunication"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of cloud computing service?",
+    "question": "What is IoT?",
     "options": [
-      {"value": "a", "text": "Storage"},
-      {"value": "b", "text": "Compute"},
-      {"value": "c", "text": "Database"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'C' in CDN stand for?",
-    "options": [
-      {"value": "a", "text": "Content"},
-      {"value": "b", "text": "Central"},
-      {"value": "c", "text": "Cloud"},
-      {"value": "d", "text": "Cached"}
+      {"value": "a", "text": "Connecting everyday things to the internet"},
+      {"value": "b", "text": "Connecting only computers to the internet"},
+      {"value": "c", "text": "Connecting only phones to the internet"},
+      {"value": "d", "text": "Connecting only tablets to the internet"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of AI that plays games?",
+    "question": "Which of these is an IoT device?",
     "options": [
-      {"value": "a", "text": "Game Theory AI"},
-      {"value": "b", "text": "Reinforcement Learning"},
-      {"value": "c", "text": "Minimax Algorithm"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a UPS?",
-    "options": [
-      {"value": "a", "text": "Provide backup power"},
-      {"value": "b", "text": "Store data"},
-      {"value": "c", "text": "Cool the system"},
-      {"value": "d", "text": "Increase processing speed"}
+      {"value": "a", "text": "Smart thermostat"},
+      {"value": "b", "text": "Regular fan"},
+      {"value": "c", "text": "Paper book"},
+      {"value": "d", "text": "Wooden chair"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of database model?",
+    "question": "What is a smart home?",
     "options": [
-      {"value": "a", "text": "Hierarchical"},
-      {"value": "b", "text": "Network"},
-      {"value": "c", "text": "Relational"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'S' in SAS stand for?",
-    "options": [
-      {"value": "a", "text": "Serial"},
-      {"value": "b", "text": "Small"},
-      {"value": "c", "text": "System"},
-      {"value": "d", "text": "Storage"}
+      {"value": "a", "text": "A home with devices connected to the internet"},
+      {"value": "b", "text": "A home that can think by itself"},
+      {"value": "c", "text": "A home that can move by itself"},
+      {"value": "d", "text": "A home that can talk by itself"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of green computing initiative?",
+    "question": "What is Artificial Intelligence?",
     "options": [
-      {"value": "a", "text": "Energy Star Certification"},
-      {"value": "b", "text": "EPEAT Certification"},
-      {"value": "c", "text": "RoHS Compliance"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a sensor in IoT?",
-    "options": [
-      {"value": "a", "text": "Process data"},
-      {"value": "b", "text": "Transmit data"},
-      {"value": "c", "text": "Collect environmental data"},
-      {"value": "d", "text": "Store data"}
-    ],
-    "correct": "c"
-  },
-  {
-    "question": "Which of these is a type of robotics application?",
-    "options": [
-      {"value": "a", "text": "Manufacturing"},
-      {"value": "b", "text": "Healthcare"},
-      {"value": "c", "text": "Agriculture"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'D' in DNS stand for?",
-    "options": [
-      {"value": "a", "text": "Data"},
-      {"value": "b", "text": "Domain"},
-      {"value": "c", "text": "Digital"},
-      {"value": "d", "text": "Dynamic"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of cyber attack that intercepts communication?",
-    "options": [
-      {"value": "a", "text": "Man-in-the-Middle"},
-      {"value": "b", "text": "Phishing"},
-      {"value": "c", "text": "DDoS"},
-      {"value": "d", "text": "Brute Force"}
+      {"value": "a", "text": "Making computers smart like humans"},
+      {"value": "b", "text": "Making computers look like humans"},
+      {"value": "c", "text": "Making computers walk like humans"},
+      {"value": "d", "text": "Making computers talk like humans"}
     ],
     "correct": "a"
   },
   {
-    "question": "What is the primary function of a debugger?",
+    "question": "What is an example of AI in everyday life?",
     "options": [
-      {"value": "a", "text": "Execute code"},
-      {"value": "b", "text": "Find and fix errors in code"},
-      {"value": "c", "text": "Optimize code performance"},
-      {"value": "d", "text": "Translate code"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of computer memory that is volatile?",
-    "options": [
-      {"value": "a", "text": "RAM"},
-      {"value": "b", "text": "ROM"},
-      {"value": "c", "text": "SSD"},
-      {"value": "d", "text": "HDD"}
+      {"value": "a", "text": "Voice assistants like Siri"},
+      {"value": "b", "text": "Regular calculator"},
+      {"value": "c", "text": "Paper notebook"},
+      {"value": "d", "text": "Wooden pencil"}
     ],
     "correct": "a"
   },
   {
-    "question": "What does the 'A' in AI stand for?",
+    "question": "What is ChatGPT?",
     "options": [
-      {"value": "a", "text": "Artificial"},
-      {"value": "b", "text": "Automated"},
-      {"value": "c", "text": "Advanced"},
-      {"value": "d", "text": "Analytical"}
+      {"value": "a", "text": "An AI that can talk with people"},
+      {"value": "b", "text": "A new type of computer"},
+      {"value": "c", "text": "A new type of phone"},
+      {"value": "d", "text": "A new type of printer"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of e-commerce security measure?",
+    "question": "What is a robot?",
     "options": [
-      {"value": "a", "text": "SSL/TLS"},
-      {"value": "b", "text": "Two-Factor Authentication"},
-      {"value": "c", "text": "PCI DSS Compliance"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a load balancer?",
-    "options": [
-      {"value": "a", "text": "Store data"},
-      {"value": "b", "text": "Distribute network traffic"},
-      {"value": "c", "text": "Encrypt data"},
-      {"value": "d", "text": "Authenticate users"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of IoT device?",
-    "options": [
-      {"value": "a", "text": "Smart Thermostat"},
-      {"value": "b", "text": "Wearable Fitness Tracker"},
-      {"value": "c", "text": "Connected Security Camera"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'R' in RAID stand for?",
-    "options": [
-      {"value": "a", "text": "Redundant"},
-      {"value": "b", "text": "Reliable"},
-      {"value": "c", "text": "Rapid"},
-      {"value": "d", "text": "Random"}
+      {"value": "a", "text": "A machine that can do tasks by itself"},
+      {"value": "b", "text": "A machine that can only walk"},
+      {"value": "c", "text": "A machine that can only talk"},
+      {"value": "d", "text": "A machine that can only fly"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of machine learning model?",
+    "question": "Which of these is a robot?",
     "options": [
-      {"value": "a", "text": "Classification"},
-      {"value": "b", "text": "Regression"},
-      {"value": "c", "text": "Clustering"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a firewall?",
-    "options": [
-      {"value": "a", "text": "Store data"},
-      {"value": "b", "text": "Block unauthorized network traffic"},
-      {"value": "c", "text": "Assign IP addresses"},
-      {"value": "d", "text": "Translate domain names"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of computer hardware?",
-    "options": [
-      {"value": "a", "text": "CPU"},
-      {"value": "b", "text": "RAM"},
-      {"value": "c", "text": "SSD"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'T' in TCP stand for?",
-    "options": [
-      {"value": "a", "text": "Transmission"},
-      {"value": "b", "text": "Transport"},
-      {"value": "c", "text": "Terminal"},
-      {"value": "d", "text": "Transaction"}
+      {"value": "a", "text": "Vacuum cleaning robot"},
+      {"value": "b", "text": "Regular vacuum cleaner"},
+      {"value": "c", "text": "Broom"},
+      {"value": "d", "text": "Dustpan"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of cloud computing benefit?",
+    "question": "What is the main function of a computer?",
     "options": [
-      {"value": "a", "text": "Scalability"},
-      {"value": "b", "text": "Cost Efficiency"},
-      {"value": "c", "text": "Flexibility"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a router?",
-    "options": [
-      {"value": "a", "text": "Connect devices within a network"},
-      {"value": "b", "text": "Forward data between networks"},
-      {"value": "c", "text": "Assign IP addresses"},
-      {"value": "d", "text": "Filter web content"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of programming error?",
-    "options": [
-      {"value": "a", "text": "Syntax Error"},
-      {"value": "b", "text": "Logic Error"},
-      {"value": "c", "text": "Runtime Error"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'I' in IoT stand for?",
-    "options": [
-      {"value": "a", "text": "Internet"},
-      {"value": "b", "text": "Intelligent"},
-      {"value": "c", "text": "Interactive"},
-      {"value": "d", "text": "Integrated"}
+      {"value": "a", "text": "To process information"},
+      {"value": "b", "text": "To play music only"},
+      {"value": "c", "text": "To watch movies only"},
+      {"value": "d", "text": "To play games only"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of cybersecurity framework?",
+    "question": "Which of these is storage device?",
     "options": [
-      {"value": "a", "text": "NIST"},
-      {"value": "b", "text": "ISO 27001"},
-      {"value": "c", "text": "CIS"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of an interpreter?",
-    "options": [
-      {"value": "a", "text": "Translate entire program at once"},
-      {"value": "b", "text": "Execute code line by line"},
-      {"value": "c", "text": "Optimize code"},
-      {"value": "d", "text": "Debug code"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of computer bus?",
-    "options": [
-      {"value": "a", "text": "Data Bus"},
-      {"value": "b", "text": "Address Bus"},
-      {"value": "c", "text": "Control Bus"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'C' in CPU stand for?",
-    "options": [
-      {"value": "a", "text": "Central"},
-      {"value": "b", "text": "Computer"},
-      {"value": "c", "text": "Computing"},
-      {"value": "d", "text": "Core"}
+      {"value": "a", "text": "Hard Disk"},
+      {"value": "b", "text": "Monitor"},
+      {"value": "c", "text": "Keyboard"},
+      {"value": "d", "text": "Mouse"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of AI application?",
+    "question": "What is RAM used for?",
     "options": [
-      {"value": "a", "text": "Virtual Assistants"},
-      {"value": "b", "text": "Recommendation Systems"},
-      {"value": "c", "text": "Autonomous Vehicles"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a switch in a network?",
-    "options": [
-      {"value": "a", "text": "Connect different networks"},
-      {"value": "b", "text": "Connect devices within the same network"},
-      {"value": "c", "text": "Assign IP addresses"},
-      {"value": "d", "text": "Filter web content"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of database key?",
-    "options": [
-      {"value": "a", "text": "Primary Key"},
-      {"value": "b", "text": "Foreign Key"},
-      {"value": "c", "text": "Composite Key"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'N' in LAN stand for?",
-    "options": [
-      {"value": "a", "text": "Network"},
-      {"value": "b", "text": "Node"},
-      {"value": "c", "text": "New"},
-      {"value": "d", "text": "Number"}
+      {"value": "a", "text": "Temporary storage while computer is on"},
+      {"value": "b", "text": "Permanent storage always"},
+      {"value": "c", "text": "To make the computer faster"},
+      {"value": "d", "text": "To connect to the internet"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of cyber attack that exploits software vulnerabilities?",
+    "question": "Which of these is an input device?",
     "options": [
-      {"value": "a", "text": "Zero-Day Exploit"},
-      {"value": "b", "text": "Man-in-the-Middle"},
-      {"value": "c", "text": "Denial of Service"},
-      {"value": "d", "text": "Phishing"}
+      {"value": "a", "text": "Scanner"},
+      {"value": "b", "text": "Monitor"},
+      {"value": "c", "text": "Printer"},
+      {"value": "d", "text": "Speaker"}
     ],
     "correct": "a"
   },
   {
-    "question": "What is the primary function of an API gateway?",
+    "question": "What is an operating system?",
     "options": [
-      {"value": "a", "text": "Store data"},
-      {"value": "b", "text": "Manage API requests"},
-      {"value": "c", "text": "Encrypt data"},
-      {"value": "d", "text": "Authenticate users"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of programming paradigm?",
-    "options": [
-      {"value": "a", "text": "Object-Oriented"},
-      {"value": "b", "text": "Functional"},
-      {"value": "c", "text": "Procedural"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'V' in VLAN stand for?",
-    "options": [
-      {"value": "a", "text": "Virtual"},
-      {"value": "b", "text": "Visible"},
-      {"value": "c", "text": "Variable"},
-      {"value": "d", "text": "Verified"}
+      {"value": "a", "text": "Software that manages computer hardware"},
+      {"value": "b", "text": "Hardware that connects to the internet"},
+      {"value": "c", "text": "A type of computer game"},
+      {"value": "d", "text": "A type of computer cable"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of machine learning technique?",
+    "question": "Which of these is an operating system?",
     "options": [
-      {"value": "a", "text": "Decision Trees"},
-      {"value": "b", "text": "Neural Networks"},
-      {"value": "c", "text": "Support Vector Machines"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a hub in a network?",
-    "options": [
-      {"value": "a", "text": "Connect devices within the same network"},
-      {"value": "b", "text": "Filter network traffic"},
-      {"value": "c", "text": "Assign IP addresses"},
-      {"value": "d", "text": "Amplify signals"}
+      {"value": "a", "text": "Windows"},
+      {"value": "b", "text": "Microsoft Word"},
+      {"value": "c", "text": "Google Chrome"},
+      {"value": "d", "text": "Calculator"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of e-commerce payment system?",
+    "question": "What is a computer network?",
     "options": [
-      {"value": "a", "text": "Credit Card"},
-      {"value": "b", "text": "Digital Wallet"},
-      {"value": "c", "text": "Cryptocurrency"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'I' in AI stand for?",
-    "options": [
-      {"value": "a", "text": "Intelligent"},
-      {"value": "b", "text": "Interactive"},
-      {"value": "c", "text": "Integrated"},
-      {"value": "d", "text": "Innovative"}
+      {"value": "a", "text": "Computers connected together to share information"},
+      {"value": "b", "text": "A single computer with internet"},
+      {"value": "c", "text": "A computer without any software"},
+      {"value": "d", "text": "A computer used only for games"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of green computing technology?",
+    "question": "What is the internet?",
     "options": [
-      {"value": "a", "text": "Energy-Efficient Processors"},
-      {"value": "b", "text": "Solar-Powered Data Centers"},
-      {"value": "c", "text": "E-Waste Recycling Programs"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of an actuator in robotics?",
-    "options": [
-      {"value": "a", "text": "Sense environment"},
-      {"value": "b", "text": "Process data"},
-      {"value": "c", "text": "Produce motion or action"},
-      {"value": "d", "text": "Store energy"}
-    ],
-    "correct": "c"
-  },
-  {
-    "question": "Which of these is a type of database language?",
-    "options": [
-      {"value": "a", "text": "DDL"},
-      {"value": "b", "text": "DML"},
-      {"value": "c", "text": "DCL"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'H' in HTTP stand for?",
-    "options": [
-      {"value": "a", "text": "Hyperlink"},
-      {"value": "b", "text": "Hypertext"},
-      {"value": "c", "text": "High-level"},
-      {"value": "d", "text": "Hybrid"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of network device?",
-    "options": [
-      {"value": "a", "text": "Router"},
-      {"value": "b", "text": "Switch"},
-      {"value": "c", "text": "Hub"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a cache memory?",
-    "options": [
-      {"value": "a", "text": "Store data permanently"},
-      {"value": "b", "text": "Provide fast access to frequently used data"},
-      {"value": "c", "text": "Execute program instructions"},
-      {"value": "d", "text": "Manage input/output operations"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of AI that understands human language?",
-    "options": [
-      {"value": "a", "text": "Natural Language Processing"},
-      {"value": "b", "text": "Computer Vision"},
-      {"value": "c", "text": "Speech Recognition"},
-      {"value": "d", "text": "All of the above"}
+      {"value": "a", "text": "A worldwide network of computers"},
+      {"value": "b", "text": "A single computer program"},
+      {"value": "c", "text": "A type of computer hardware"},
+      {"value": "d", "text": "A type of computer software"}
     ],
     "correct": "a"
   },
   {
-    "question": "What does the 'P' in HTTP stand for?",
+    "question": "What is a website?",
     "options": [
-      {"value": "a", "text": "Protocol"},
-      {"value": "b", "text": "Process"},
-      {"value": "c", "text": "Program"},
-      {"value": "d", "text": "Packet"}
+      {"value": "a", "text": "A collection of web pages on the internet"},
+      {"value": "b", "text": "A single computer program"},
+      {"value": "c", "text": "A type of computer hardware"},
+      {"value": "d", "text": "A type of computer software"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of cybersecurity threat?",
+    "question": "Which of these is a web browser?",
     "options": [
-      {"value": "a", "text": "Malware"},
-      {"value": "b", "text": "Phishing"},
-      {"value": "c", "text": "Ransomware"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a modem?",
-    "options": [
-      {"value": "a", "text": "Connect devices within a network"},
-      {"value": "b", "text": "Modulate and demodulate signals"},
-      {"value": "c", "text": "Assign IP addresses"},
-      {"value": "d", "text": "Filter web content"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of programming language?",
-    "options": [
-      {"value": "a", "text": "Compiled"},
-      {"value": "b", "text": "Interpreted"},
-      {"value": "c", "text": "Scripting"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'T' in SMTP stand for?",
-    "options": [
-      {"value": "a", "text": "Transfer"},
-      {"value": "b", "text": "Transport"},
-      {"value": "c", "text": "Terminal"},
-      {"value": "d", "text": "Transaction"}
+      {"value": "a", "text": "Firefox"},
+      {"value": "b", "text": "Microsoft Word"},
+      {"value": "c", "text": "Paint"},
+      {"value": "d", "text": "Calculator"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of cloud storage service?",
+    "question": "What is a URL?",
     "options": [
-      {"value": "a", "text": "Object Storage"},
-      {"value": "b", "text": "File Storage"},
-      {"value": "c", "text": "Block Storage"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a graphics processing unit (GPU)?",
-    "options": [
-      {"value": "a", "text": "Execute general-purpose instructions"},
-      {"value": "b", "text": "Render images and videos"},
-      {"value": "c", "text": "Store data"},
-      {"value": "d", "text": "Manage input/output operations"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of robotics sensor?",
-    "options": [
-      {"value": "a", "text": "Lidar"},
-      {"value": "b", "text": "Camera"},
-      {"value": "c", "text": "Ultrasonic"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'S' in SSL stand for?",
-    "options": [
-      {"value": "a", "text": "Secure"},
-      {"value": "b", "text": "System"},
-      {"value": "c", "text": "Standard"},
-      {"value": "d", "text": "Socket"}
+      {"value": "a", "text": "The address of a website"},
+      {"value": "b", "text": "A type of computer hardware"},
+      {"value": "c", "text": "A type of computer software"},
+      {"value": "d", "text": "A type of computer network"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of database management system?",
+    "question": "What is a search engine?",
     "options": [
-      {"value": "a", "text": "Relational"},
-      {"value": "b", "text": "NoSQL"},
-      {"value": "c", "text": "Object-Oriented"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a network interface card (NIC)?",
-    "options": [
-      {"value": "a", "text": "Connect a computer to a network"},
-      {"value": "b", "text": "Store data"},
-      {"value": "c", "text": "Execute program instructions"},
-      {"value": "d", "text": "Manage input/output operations"}
+      {"value": "a", "text": "A program that finds information on the internet"},
+      {"value": "b", "text": "A program that plays music"},
+      {"value": "c", "text": "A program that edits photos"},
+      {"value": "d", "text": "A program that writes documents"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of AI that creates new content?",
+    "question": "Which of these is a search engine?",
     "options": [
-      {"value": "a", "text": "Generative Adversarial Networks"},
-      {"value": "b", "text": "Variational Autoencoders"},
-      {"value": "c", "text": "Transformer Models"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'F' in FTP stand for?",
-    "options": [
-      {"value": "a", "text": "File"},
-      {"value": "b", "text": "Fast"},
-      {"value": "c", "text": "Functional"},
-      {"value": "d", "text": "Flexible"}
+      {"value": "a", "text": "Bing"},
+      {"value": "b", "text": "Facebook"},
+      {"value": "c", "text": "YouTube"},
+      {"value": "d", "text": "Twitter"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of e-commerce platform?",
+    "question": "What is an email?",
     "options": [
-      {"value": "a", "text": "Marketplace"},
-      {"value": "b", "text": "SaaS"},
-      {"value": "c", "text": "Social Commerce"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a heat sink in a computer?",
-    "options": [
-      {"value": "a", "text": "Store data"},
-      {"value": "b", "text": "Dissipate heat"},
-      {"value": "c", "text": "Provide power"},
-      {"value": "d", "text": "Amplify signals"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of IoT communication protocol?",
-    "options": [
-      {"value": "a", "text": "MQTT"},
-      {"value": "b", "text": "CoAP"},
-      {"value": "c", "text": "Zigbee"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'M' in ML stand for?",
-    "options": [
-      {"value": "a", "text": "Modeling"},
-      {"value": "b", "text": "Mathematical"},
-      {"value": "c", "text": "Machine"},
-      {"value": "d", "text": "Modern"}
-    ],
-    "correct": "c"
-  },
-  {
-    "question": "Which of these is a type of cybersecurity control?",
-    "options": [
-      {"value": "a", "text": "Technical"},
-      {"value": "b", "text": "Administrative"},
-      {"value": "c", "text": "Physical"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a compiler?",
-    "options": [
-      {"value": "a", "text": "Execute code line by line"},
-      {"value": "b", "text": "Translate source code to machine code"},
-      {"value": "c", "text": "Debug code"},
-      {"value": "d", "text": "Optimize database queries"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of computer port?",
-    "options": [
-      {"value": "a", "text": "USB"},
-      {"value": "b", "text": "HDMI"},
-      {"value": "c", "text": "Ethernet"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'P' in PPTP stand for?",
-    "options": [
-      {"value": "a", "text": "Point"},
-      {"value": "b", "text": "Protocol"},
-      {"value": "c", "text": "Private"},
-      {"value": "d", "text": "Packet"}
-    ],
-    "correct": "b"
-  },
-  {
-    "question": "Which of these is a type of robotics programming language?",
-    "options": [
-      {"value": "a", "text": "ROS"},
-      {"value": "b", "text": "Python"},
-      {"value": "c", "text": "C++"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a BIOS?",
-    "options": [
-      {"value": "a", "text": "Load operating system"},
-      {"value": "b", "text": "Store user data"},
-      {"value": "c", "text": "Execute applications"},
-      {"value": "d", "text": "Manage network connections"}
+      {"value": "a", "text": "Electronic mail sent over the internet"},
+      {"value": "b", "text": "A letter sent by post"},
+      {"value": "c", "text": "A type of computer hardware"},
+      {"value": "d", "text": "A type of computer software"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of cloud computing service?",
+    "question": "What is social media?",
     "options": [
-      {"value": "a", "text": "Storage"},
-      {"value": "b", "text": "Compute"},
-      {"value": "c", "text": "Database"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'C' in CDN stand for?",
-    "options": [
-      {"value": "a", "text": "Content"},
-      {"value": "b", "text": "Central"},
-      {"value": "c", "text": "Cloud"},
-      {"value": "d", "text": "Cached"}
+      {"value": "a", "text": "Websites where people share information"},
+      {"value": "b", "text": "Websites where people buy things"},
+      {"value": "c", "text": "Websites where people play games"},
+      {"value": "d", "text": "Websites where people watch movies"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of AI that plays games?",
+    "question": "Which of these is social media?",
     "options": [
-      {"value": "a", "text": "Game Theory AI"},
-      {"value": "b", "text": "Reinforcement Learning"},
-      {"value": "c", "text": "Minimax Algorithm"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What is the primary function of a UPS?",
-    "options": [
-      {"value": "a", "text": "Provide backup power"},
-      {"value": "b", "text": "Store data"},
-      {"value": "c", "text": "Cool the system"},
-      {"value": "d", "text": "Increase processing speed"}
+      {"value": "a", "text": "Instagram"},
+      {"value": "b", "text": "Amazon"},
+      {"value": "c", "text": "Google"},
+      {"value": "d", "text": "YouTube"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of database model?",
+    "question": "What is a computer virus?",
     "options": [
-      {"value": "a", "text": "Hierarchical"},
-      {"value": "b", "text": "Network"},
-      {"value": "c", "text": "Relational"},
-      {"value": "d", "text": "All of the above"}
-    ],
-    "correct": "d"
-  },
-  {
-    "question": "What does the 'S' in SAS stand for?",
-    "options": [
-      {"value": "a", "text": "Serial"},
-      {"value": "b", "text": "Small"},
-      {"value": "c", "text": "System"},
-      {"value": "d", "text": "Storage"}
+      {"value": "a", "text": "A harmful program that can damage your computer"},
+      {"value": "b", "text": "A helpful program that makes your computer faster"},
+      {"value": "c", "text": "A type of computer hardware"},
+      {"value": "d", "text": "A type of computer cable"}
     ],
     "correct": "a"
   },
   {
-    "question": "Which of these is a type of green computing initiative?",
+    "question": "How can you protect your computer from viruses?",
     "options": [
-      {"value": "a", "text": "Energy Star Certification"},
-      {"value": "b", "text": "EPEAT Certification"},
-      {"value": "c", "text": "RoHS Compliance"},
-      {"value": "d", "text": "All of the above"}
+      {"value": "a", "text": "Use antivirus software"},
+      {"value": "b", "text": "Never use the internet"},
+      {"value": "c", "text": "Never turn on your computer"},
+      {"value": "d", "text": "Never install any software"}
     ],
-    "correct": "d"
+    "correct": "a"
   },
   {
-    "question": "What is the primary function of a sensor in IoT?",
+    "question": "What is a strong password?",
     "options": [
-      {"value": "a", "text": "Process data"},
-      {"value": "b", "text": "Transmit data"},
-      {"value": "c", "text": "Collect environmental data"},
-      {"value": "d", "text": "Store data"}
+      {"value": "a", "text": "Long with letters, numbers, and symbols"},
+      {"value": "b", "text": "Short with only letters"},
+      {"value": "c", "text": "Easy to remember like 'password'"},
+      {"value": "d", "text": "Your name or birthday"}
     ],
-    "correct": "c"
+    "correct": "a"
   },
   {
-    "question": "Which of these is a type of robotics application?",
+    "question": "What is phishing?",
     "options": [
-      {"value": "a", "text": "Manufacturing"},
-      {"value": "b", "text": "Healthcare"},
-      {"value": "c", "text": "Agriculture"},
-      {"value": "d", "text": "All of the above"}
+      {"value": "a", "text": "Trying to trick people into giving their information"},
+      {"value": "b", "text": "A way to catch fish"},
+      {"value": "c", "text": "A type of computer hardware"},
+      {"value": "d", "text": "A type of computer software"}
     ],
-    "correct": "d"
+    "correct": "a"
+  },
+  {
+    "question": "What is cloud storage?",
+    "options": [
+      {"value": "a", "text": "Storing files on the internet instead of your computer"},
+      {"value": "b", "text": "Storing files on clouds in the sky"},
+      {"value": "c", "text": "Storing files on USB drives"},
+      {"value": "d", "text": "Storing files on DVDs"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of these is cloud storage?",
+    "options": [
+      {"value": "a", "text": "iCloud"},
+      {"value": "b", "text": "Hard Drive"},
+      {"value": "c", "text": "USB Drive"},
+      {"value": "d", "text": "CD-ROM"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is e-commerce?",
+    "options": [
+      {"value": "a", "text": "Buying and selling things online"},
+      {"value": "b", "text": "Sending emails"},
+      {"value": "c", "text": "Playing games online"},
+      {"value": "d", "text": "Watching videos online"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of these is an e-commerce website?",
+    "options": [
+      {"value": "a", "text": "eBay"},
+      {"value": "b", "text": "Google"},
+      {"value": "c", "text": "Facebook"},
+      {"value": "d", "text": "Wikipedia"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is online shopping?",
+    "options": [
+      {"value": "a", "text": "Buying things from websites"},
+      {"value": "b", "text": "Shopping in physical stores"},
+      {"value": "c", "text": "Looking at things in stores"},
+      {"value": "d", "text": "Comparing prices in stores"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is digital payment?",
+    "options": [
+      {"value": "a", "text": "Paying money using electronic methods"},
+      {"value": "b", "text": "Paying with cash only"},
+      {"value": "c", "text": "Paying with checks only"},
+      {"value": "d", "text": "Paying with gold only"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of these is a digital payment method?",
+    "options": [
+      {"value": "a", "text": "Mobile wallet"},
+      {"value": "b", "text": "Paper money"},
+      {"value": "c", "text": "Coins"},
+      {"value": "d", "text": "Checks"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is green computing?",
+    "options": [
+      {"value": "a", "text": "Using computers in ways that help the environment"},
+      {"value": "b", "text": "Painting computers green"},
+      {"value": "c", "text": "Using computers only in green rooms"},
+      {"value": "d", "text": "Buying only green computers"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "How can computers help the environment?",
+    "options": [
+      {"value": "a", "text": "By reducing paper usage"},
+      {"value": "b", "text": "By using more electricity"},
+      {"value": "c", "text": "By creating more waste"},
+      {"value": "d", "text": "By using more paper"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is e-waste?",
+    "options": [
+      {"value": "a", "text": "Old electronic devices that are thrown away"},
+      {"value": "b", "text": "Waste from food and drinks"},
+      {"value": "c", "text": "Waste from paper and plastic"},
+      {"value": "d", "text": "Waste from clothes and shoes"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What should you do with old phones and computers?",
+    "options": [
+      {"value": "a", "text": "Recycle them at special centers"},
+      {"value": "b", "text": "Throw them in the regular trash"},
+      {"value": "c", "text": "Bury them in your backyard"},
+      {"value": "d", "text": "Throw them in the river"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is IoT?",
+    "options": [
+      {"value": "a", "text": "Connecting everyday objects to the internet"},
+      {"value": "b", "text": "Connecting only computers to the internet"},
+      {"value": "c", "text": "Connecting only phones to the internet"},
+      {"value": "d", "text": "Connecting only tablets to the internet"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of these is an IoT device?",
+    "options": [
+      {"value": "a", "text": "Smart light bulb"},
+      {"value": "b", "text": "Regular light bulb"},
+      {"value": "c", "text": "Candle"},
+      {"value": "d", "text": "Flashlight"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is a smart device?",
+    "options": [
+      {"value": "a", "text": "A device that can connect to the internet"},
+      {"value": "b", "text": "A device that is very intelligent"},
+      {"value": "c", "text": "A device that is very fast"},
+      {"value": "d", "text": "A device that is very big"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is Artificial Intelligence?",
+    "options": [
+      {"value": "a", "text": "Making computers able to think like humans"},
+      {"value": "b", "text": "Making computers look like humans"},
+      {"value": "c", "text": "Making computers walk like humans"},
+      {"value": "d", "text": "Making computers talk like humans"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is an example of AI?",
+    "options": [
+      {"value": "a", "text": "Smartphone assistant that answers questions"},
+      {"value": "b", "text": "Regular calculator"},
+      {"value": "c", "text": "Paper notebook"},
+      {"value": "d", "text": "Wooden pencil"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is ChatGPT?",
+    "options": [
+      {"value": "a", "text": "An AI that can have conversations with people"},
+      {"value": "b", "text": "A new type of computer"},
+      {"value": "c", "text": "A new type of phone"},
+      {"value": "d", "text": "A new type of printer"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is a robot?",
+    "options": [
+      {"value": "a", "text": "A machine that can do tasks by itself"},
+      {"value": "b", "text": "A machine that can only be controlled by humans"},
+      {"value": "c", "text": "A machine that can only move"},
+      {"value": "d", "text": "A machine that can only talk"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of these is a robot?",
+    "options": [
+      {"value": "a", "text": "Robot vacuum cleaner"},
+      {"value": "b", "text": "Regular vacuum cleaner"},
+      {"value": "c", "text": "Broom"},
+      {"value": "d", "text": "Mop"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is machine learning?",
+    "options": [
+      {"value": "a", "text": "When computers learn from experience"},
+      {"value": "b", "text": "When computers are taught by humans"},
+      {"value": "c", "text": "When computers play games"},
+      {"value": "d", "text": "When computers watch movies"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is a sensor?",
+    "options": [
+      {"value": "a", "text": "A device that detects things like light or heat"},
+      {"value": "b", "text": "A device that makes things like light or heat"},
+      {"value": "c", "text": "A device that stores information"},
+      {"value": "d", "text": "A device that shows information"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is the purpose of a computer?",
+    "options": [
+      {"value": "a", "text": "To process data and information"},
+      {"value": "b", "text": "To only play games"},
+      {"value": "c", "text": "To only watch movies"},
+      {"value": "d", "text": "To only listen to music"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of these is computer hardware?",
+    "options": [
+      {"value": "a", "text": "Mouse"},
+      {"value": "b", "text": "Windows"},
+      {"value": "c", "text": "Microsoft Word"},
+      {"value": "d", "text": "Google Chrome"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is software?",
+    "options": [
+      {"value": "a", "text": "Programs that run on a computer"},
+      {"value": "b", "text": "Parts of a computer you can touch"},
+      {"value": "c", "text": "Cables that connect computers"},
+      {"value": "d", "text": "The desk where a computer sits"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of these is application software?",
+    "options": [
+      {"value": "a", "text": "MS Paint"},
+      {"value": "b", "text": "Windows 10"},
+      {"value": "c", "text": "Linux"},
+      {"value": "d", "text": "Device drivers"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is the function of a CPU?",
+    "options": [
+      {"value": "a", "text": "To process instructions"},
+      {"value": "b", "text": "To store data"},
+      {"value": "c", "text": "To display images"},
+      {"value": "d", "text": "To connect to the internet"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is a computer network?",
+    "options": [
+      {"value": "a", "text": "Two or more computers connected together"},
+      {"value": "b", "text": "A single computer with internet"},
+      {"value": "c", "text": "A computer without any software"},
+      {"value": "d", "text": "A computer used only for games"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is the internet?",
+    "options": [
+      {"value": "a", "text": "A global network connecting millions of computers"},
+      {"value": "b", "text": "A single computer program"},
+      {"value": "c", "text": "A type of computer hardware"},
+      {"value": "d", "text": "A type of computer software"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is a website?",
+    "options": [
+      {"value": "a", "text": "A collection of related web pages"},
+      {"value": "b", "text": "A single computer program"},
+      {"value": "c", "text": "A type of computer hardware"},
+      {"value": "d", "text": "A type of computer software"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of these is a web browser?",
+    "options": [
+      {"value": "a", "text": "Safari"},
+      {"value": "b", "text": "Microsoft Word"},
+      {"value": "c", "text": "Calculator"},
+      {"value": "d", "text": "Paint"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is a hyperlink?",
+    "options": [
+      {"value": "a", "text": "A word or picture you can click to go to another place"},
+      {"value": "b", "text": "A type of computer hardware"},
+      {"value": "c", "text": "A type of computer software"},
+      {"value": "d", "text": "A type of computer cable"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is a search engine used for?",
+    "options": [
+      {"value": "a", "text": "To find information on the internet"},
+      {"value": "b", "text": "To play games on the internet"},
+      {"value": "c", "text": "To watch videos on the internet"},
+      {"value": "d", "text": "To listen to music on the internet"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of these is a search engine?",
+    "options": [
+      {"value": "a", "text": "Yahoo"},
+      {"value": "b", "text": "Facebook"},
+      {"value": "c", "text": "Instagram"},
+      {"value": "d", "text": "Twitter"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is an email?",
+    "options": [
+      {"value": "a", "text": "A message sent electronically"},
+      {"value": "b", "text": "A letter sent by post"},
+      {"value": "c", "text": "A package delivered by courier"},
+      {"value": "d", "text": "A phone call"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is social media?",
+    "options": [
+      {"value": "a", "text": "Websites where people can connect and share"},
+      {"value": "b", "text": "Websites where people buy things"},
+      {"value": "c", "text": "Websites where people play games"},
+      {"value": "d", "text": "Websites where people watch movies"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of these is social media?",
+    "options": [
+      {"value": "a", "text": "Snapchat"},
+      {"value": "b", "text": "Amazon"},
+      {"value": "c", "text": "Google"},
+      {"value": "d", "text": "YouTube"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is a computer virus?",
+    "options": [
+      {"value": "a", "text": "A harmful program that can damage your computer"},
+      {"value": "b", "text": "A helpful program that makes your computer faster"},
+      {"value": "c", "text": "A type of computer hardware"},
+      {"value": "d", "text": "A type of computer software"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "How can you protect your computer from viruses?",
+    "options": [
+      {"value": "a", "text": "Install antivirus software"},
+      {"value": "b", "text": "Never connect to the internet"},
+      {"value": "c", "text": "Never turn on your computer"},
+      {"value": "d", "text": "Never install any software"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is a strong password?",
+    "options": [
+      {"value": "a", "text": "A mix of letters, numbers, and symbols"},
+      {"value": "b", "text": "A simple word like 'password'"},
+      {"value": "c", "text": "Your name or birthday"},
+      {"value": "d", "text": "The word '123456'"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is phishing?",
+    "options": [
+      {"value": "a", "text": "When someone tries to trick you into giving your personal information"},
+      {"value": "b", "text": "When someone tries to sell you fish"},
+      {"value": "c", "text": "When someone tries to help you with your computer"},
+      {"value": "d", "text": "When someone tries to fix your computer"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is cloud computing?",
+    "options": [
+      {"value": "a", "text": "Using computer services over the internet"},
+      {"value": "b", "text": "Using computers in the clouds"},
+      {"value": "c", "text": "Using computers only when it rains"},
+      {"value": "d", "text": "Using computers only in the sky"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of these is a cloud service?",
+    "options": [
+      {"value": "a", "text": "Dropbox"},
+      {"value": "b", "text": "Hard Drive"},
+      {"value": "c", "text": "USB Drive"},
+      {"value": "d", "text": "CD-ROM"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is e-commerce?",
+    "options": [
+      {"value": "a", "text": "Buying and selling things online"},
+      {"value": "b", "text": "Sending emails"},
+      {"value": "c", "text": "Playing games online"},
+      {"value": "d", "text": "Watching videos online"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of these is an e-commerce company?",
+    "options": [
+      {"value": "a", "text": "Alibaba"},
+      {"value": "b", "text": "Google"},
+      {"value": "c", "text": "Facebook"},
+      {"value": "d", "text": "Wikipedia"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is online shopping?",
+    "options": [
+      {"value": "a", "text": "Buying things from websites"},
+      {"value": "b", "text": "Shopping in physical stores"},
+      {"value": "c", "text": "Looking at things in stores"},
+      {"value": "d", "text": "Comparing prices in stores"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is digital payment?",
+    "options": [
+      {"value": "a", "text": "Paying money using computers or phones"},
+      {"value": "b", "text": "Paying with cash only"},
+      {"value": "c", "text": "Paying with checks only"},
+      {"value": "d", "text": "Paying with gold only"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of these is a digital payment method?",
+    "options": [
+      {"value": "a", "text": "Credit card"},
+      {"value": "b", "text": "Paper money"},
+      {"value": "c", "text": "Coins"},
+      {"value": "d", "text": "Checks"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is green computing?",
+    "options": [
+      {"value": "a", "text": "Using computers in ways that save energy and help the environment"},
+      {"value": "b", "text": "Painting computers green"},
+      {"value": "c", "text": "Using computers only in green rooms"},
+      {"value": "d", "text": "Buying only green computers"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "How can computers help save paper?",
+    "options": [
+      {"value": "a", "text": "By reading documents on screen instead of printing them"},
+      {"value": "b", "text": "By printing more documents"},
+      {"value": "c", "text": "By buying more paper"},
+      {"value": "d", "text": "By using more ink"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is e-waste?",
+    "options": [
+      {"value": "a", "text": "Old electronic devices that are thrown away"},
+      {"value": "b", "text": "Waste from food and drinks"},
+      {"value": "c", "text": "Waste from paper and plastic"},
+      {"value": "d", "text": "Waste from clothes and shoes"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What should you do with old electronic devices?",
+    "options": [
+      {"value": "a", "text": "Take them to recycling centers"},
+      {"value": "b", "text": "Throw them in the regular trash"},
+      {"value": "c", "text": "Leave them on the street"},
+      {"value": "d", "text": "Throw them in the river"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What does IoT stand for?",
+    "options": [
+      {"value": "a", "text": "Internet of Things"},
+      {"value": "b", "text": "Internet of Technology"},
+      {"value": "c", "text": "Internet of Tools"},
+      {"value": "d", "text": "Internet of Telecommunication"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is IoT?",
+    "options": [
+      {"value": "a", "text": "Connecting everyday objects to the internet"},
+      {"value": "b", "text": "Connecting only computers to the internet"},
+      {"value": "c", "text": "Connecting only phones to the internet"},
+      {"value": "d", "text": "Connecting only tablets to the internet"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of these is an IoT device?",
+    "options": [
+      {"value": "a", "text": "Smart watch"},
+      {"value": "b", "text": "Regular watch"},
+      {"value": "c", "text": "Clock"},
+      {"value": "d", "text": "Calendar"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is a smart home?",
+    "options": [
+      {"value": "a", "text": "A home with devices connected to the internet"},
+      {"value": "b", "text": "A home that is very big"},
+      {"value": "c", "text": "A home that is very small"},
+      {"value": "d", "text": "A home that is very expensive"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is Artificial Intelligence?",
+    "options": [
+      {"value": "a", "text": "Making computers able to do things that normally need human intelligence"},
+      {"value": "b", "text": "Making computers look like humans"},
+      {"value": "c", "text": "Making computers walk like humans"},
+      {"value": "d", "text": "Making computers talk like humans"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is an example of AI?",
+    "options": [
+      {"value": "a", "text": "A program that can recognize faces in photos"},
+      {"value": "b", "text": "A program that can only add numbers"},
+      {"value": "c", "text": "A program that can only show text"},
+      {"value": "d", "text": "A program that can only play music"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is ChatGPT?",
+    "options": [
+      {"value": "a", "text": "An AI that can talk with people and answer questions"},
+      {"value": "b", "text": "A new type of computer"},
+      {"value": "c", "text": "A new type of phone"},
+      {"value": "d", "text": "A new type of printer"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is a robot?",
+    "options": [
+      {"value": "a", "text": "A machine that can do tasks by itself"},
+      {"value": "b", "text": "A machine that can only be controlled by humans"},
+      {"value": "c", "text": "A machine that can only move"},
+      {"value": "d", "text": "A machine that can only talk"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "Which of these is a robot?",
+    "options": [
+      {"value": "a", "text": "Robot arm in a factory"},
+      {"value": "b", "text": "Regular arm of a person"},
+      {"value": "c", "text": "Arm of a chair"},
+      {"value": "d", "text": "Arm of a sofa"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is machine learning?",
+    "options": [
+      {"value": "a", "text": "When computers learn from data without being programmed for every step"},
+      {"value": "b", "text": "When computers are taught by humans step by step"},
+      {"value": "c", "text": "When computers play games"},
+      {"value": "d", "text": "When computers watch movies"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is a sensor?",
+    "options": [
+      {"value": "a", "text": "A device that detects information from the world"},
+      {"value": "b", "text": "A device that stores information"},
+      {"value": "c", "text": "A device that shows information"},
+      {"value": "d", "text": "A device that sends information"}
+    ],
+    "correct": "a"
+  },
+  {
+    "question": "What is an actuator?",
+    "options": [
+      {"value": "a", "text": "A device that causes a machine to move"},
+      {"value": "b", "text": "A device that stops a machine from moving"},
+      {"value": "c", "text": "A device that stores information"},
+      {"value": "d", "text": "A device that shows information"}
+    ],
+    "correct": "a"
   }
 ]
